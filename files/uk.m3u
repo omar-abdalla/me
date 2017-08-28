@@ -1,0 +1,2097 @@
+#EXTM3U
+#EXTINF:-1,BBC One HD
+http://51.255.88.38:8000/live/sam/sam/2041.m3u8
+#EXTINF:-1,BBC Two HD
+http://51.255.88.38:8000/live/sam/sam/347.m3u8
+#EXTINF:-1,BBC FOUR HD
+http://51.255.88.38:8000/live/sam/sam/4364.m3u8
+#EXTINF:-1,ITV
+http://51.255.88.38:8000/live/sam/sam/348.m3u8
+#EXTINF:-1,ITV2
+http://51.255.88.38:8000/live/sam/sam/1392.m3u8
+#EXTINF:-1,ITV3
+http://51.255.88.38:8000/live/sam/sam/3761.m3u8
+#EXTINF:-1,ITV4 HD
+http://51.255.88.38:8000/live/sam/sam/4294.m3u8
+#EXTINF:-1,ITV Encore HD
+http://51.255.88.38:8000/live/sam/sam/3115.m3u8
+#EXTINF:-1,Channel 4
+http://51.255.88.38:8000/live/sam/sam/706.m3u8
+#EXTINF:-1,Channel 5HD
+http://51.255.88.38:8000/live/sam/sam/736.m3u8
+#EXTINF:-1,5STAR
+http://51.255.88.38:8000/live/sam/sam/2158.m3u8
+#EXTINF:-1,Sky1
+http://51.255.88.38:8000/live/sam/sam/327.m3u8
+#EXTINF:-1,Sky Living HD
+http://51.255.88.38:8000/live/sam/sam/244.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://51.255.88.38:8000/live/sam/sam/243.m3u8
+#EXTINF:-1,Sky2
+http://51.255.88.38:8000/live/sam/sam/326.m3u8
+#EXTINF:-1,Sky Arts
+http://51.255.88.38:8000/live/sam/sam/1517.m3u8
+#EXTINF:-1,Gold
+http://51.255.88.38:8000/live/sam/sam/5074.m3u8
+#EXTINF:-1,Challenge+1
+http://51.255.88.38:8000/live/sam/sam/1493.m3u8
+#EXTINF:-1,E4 HD
+http://51.255.88.38:8000/live/sam/sam/220.m3u8
+#EXTINF:-1,Universal Channel
+http://51.255.88.38:8000/live/sam/sam/5877.m3u8
+#EXTINF:-1,E! HD
+http://51.255.88.38:8000/live/sam/sam/219.m3u8
+#EXTINF:-1,5 USA
+http://51.255.88.38:8000/live/sam/sam/5017.m3u8
+#EXTINF:-1,Sky News
+http://51.255.88.38:8000/live/sam/sam/1313.m3u8
+#EXTINF:-1,RTE One
+http://51.255.88.38:8000/live/sam/sam/485.m3u8
+#EXTINF:-1,RTE Two
+http://51.255.88.38:8000/live/sam/sam/486.m3u8
+#EXTINF:-1,3E
+http://51.255.88.38:8000/live/sam/sam/4291.m3u8
+#EXTINF:-1,TG4
+http://51.255.88.38:8000/live/sam/sam/4178.m3u8
+#EXTINF:-1,TV3
+http://51.255.88.38:8000/live/sam/sam/4177.m3u8
+#EXTINF:-1,alibi HD
+http://51.255.88.38:8000/live/sam/sam/2612.m3u8
+#EXTINF:-1,SPIKE TV
+http://51.255.88.38:8000/live/sam/sam/1355.m3u8
+#EXTINF:-1,Syfy +1
+http://51.255.88.38:8000/live/sam/sam/78.m3u8
+#EXTINF:-1,W HD
+http://51.255.88.38:8000/live/sam/sam/393.m3u8
+#EXTINF:-1,Dave HD
+http://51.255.88.38:8000/live/sam/sam/394.m3u8
+#EXTINF:-1,Disney XD HD
+http://51.255.88.38:8000/live/sam/sam/218.m3u8
+#EXTINF:-1,Disney Jnr HD
+http://51.255.88.38:8000/live/sam/sam/217.m3u8
+#EXTINF:-1,Disney Chnl HD
+http://51.255.88.38:8000/live/sam/sam/216.m3u8
+#EXTINF:-1,Cartoon Net HD
+http://51.255.88.38:8000/live/sam/sam/1596.m3u8
+#EXTINF:-1,BabyTV
+http://51.255.88.38:8000/live/sam/sam/1501.m3u8
+#EXTINF:-1,NickelodeonHD
+http://51.255.88.38:8000/live/sam/sam/239.m3u8
+#EXTINF:-1,Nicktoons
+http://51.255.88.38:8000/live/sam/sam/238.m3u8
+#EXTINF:-1,Nick Jr Too
+http://51.255.88.38:8000/live/sam/sam/1614.m3u8
+#EXTINF:-1,Nick Jr
+http://51.255.88.38:8000/live/sam/sam/237.m3u8
+#EXTINF:-1,Discovery Channel
+http://51.255.88.38:8000/live/sam/sam/209.m3u8
+#EXTINF:-1,Disc.Turbo
+http://51.255.88.38:8000/live/sam/sam/215.m3u8
+#EXTINF:-1,Discovery Shed
+http://51.255.88.38:8000/live/sam/sam/1316.m3u8
+#EXTINF:-1,Disc.Science
+http://51.255.88.38:8000/live/sam/sam/212.m3u8
+#EXTINF:-1,Home&Health
+http://51.255.88.38:8000/live/sam/sam/1699.m3u8
+#EXTINF:-1,Disc.History+1
+http://51.255.88.38:8000/live/sam/sam/210.m3u8
+#EXTINF:-1,History HD
+http://51.255.88.38:8000/live/sam/sam/3065.m3u8
+#EXTINF:-1,H2
+http://51.255.88.38:8000/live/sam/sam/5750.m3u8
+#EXTINF:-1,ID
+http://51.255.88.38:8000/live/sam/sam/301.m3u8
+#EXTINF:-1,Crime+Inv HD
+http://51.255.88.38:8000/live/sam/sam/211.m3u8
+#EXTINF:-1,Eden
+http://51.255.88.38:8000/live/sam/sam/3323.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://51.255.88.38:8000/live/sam/sam/235.m3u8
+#EXTINF:-1,National Geographic Channel
+http://51.255.88.38:8000/live/sam/sam/233.m3u8
+#EXTINF:-1,AnimalPlnt HD
+http://51.255.88.38:8000/live/sam/sam/3018.m3u8
+#EXTINF:-1,DMAX
+http://51.255.88.38:8000/live/sam/sam/801.m3u8
+#EXTINF:-1,ComedyCentral
+http://51.255.88.38:8000/live/sam/sam/1518.m3u8
+#EXTINF:-1,Yesterday
+http://51.255.88.38:8000/live/sam/sam/3283.m3u8
+#EXTINF:-1,CBS Action
+http://51.255.88.38:8000/live/sam/sam/3278.m3u8
+#EXTINF:-1,CBS Drama
+http://51.255.88.38:8000/live/sam/sam/3279.m3u8
+#EXTINF:-1,CBS Reality
+http://51.255.88.38:8000/live/sam/sam/3280.m3u8
+#EXTINF:-1,MTV Dance
+http://51.255.88.38:8000/live/sam/sam/1604.m3u8
+#EXTINF:-1,MTV Rocks
+http://51.255.88.38:8000/live/sam/sam/1603.m3u8
+#EXTINF:-1,MTV MUSIC
+http://51.255.88.38:8000/live/sam/sam/1601.m3u8
+#EXTINF:-1,MTV HITS
+http://51.255.88.38:8000/live/sam/sam/1600.m3u8
+#EXTINF:-1,MTV Classic
+http://51.255.88.38:8000/live/sam/sam/4488.m3u8
+#EXTINF:-1,MTV
+http://51.255.88.38:8000/live/sam/sam/1592.m3u8
+#EXTINF:-1,MTV BASE
+http://51.255.88.38:8000/live/sam/sam/1605.m3u8
+#EXTINF:-1,Heart TV
+http://51.255.88.38:8000/live/sam/sam/320.m3u8
+#EXTINF:-1,Capital Radio TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,MUSIC CHOICE- Brits Hits
+https://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Dance/EDM
+https://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Hip-Hop And R&B
+https://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Hit List
+https://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Indie
+https://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Kidz Only!
+https://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Metal
+https://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Mexicana
+https://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Musica Urbana
+https://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Pop & Country
+https://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Pop Hits
+https://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Pop Latino
+https://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- R&B Soul
+https://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Rap
+https://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Rap 2K
+https://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Rock
+https://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Teen Beats
+https://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Throwback Jamz
+https://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Today
+https://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Toddler Tunes
+https://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Tropicales
+https://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Y2K
+https://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+#EXTINF:-1,MUSIC CHOICE- Atomic
+http://5.154.185.153/hls/live.m3u8
+#EXTINF:-1,MUSIC CHOICE- City
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
+#EXTINF:-1,MUSIC CHOICE - DJing
+http://www.djing.com/tv/05.m3u8
+#EXTINF:-1,MUSIC CHOICE- Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,MUSIC - m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,MUSIC CHOICE- Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,MUSIC - Virgin TV
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+#EXTINF:-1,MUSIC - Vox Music TV
+rtmp://stream.cdn.smcloud.net/vox-t/vox_480p
+#EXTINF:-1,Sky Comedy
+http://51.255.88.38:8000/live/sam/sam/3650.m3u8
+#EXTINF:-1,Sky Thriller HD
+http://51.255.88.38:8000/live/sam/sam/3640.m3u8
+#EXTINF:-1,Sky Disney HD
+http://51.255.88.38:8000/live/sam/sam/3654.m3u8
+#EXTINF:-1,SkyDramaRom
+http://51.255.88.38:8000/live/sam/sam/3643.m3u8
+#EXTINF:-1,Sky Movies Action and Adventure
+http://51.255.88.38:8000/live/sam/sam/3660.m3u8
+#EXTINF:-1,Sky Family HD
+http://51.255.88.38:8000/live/sam/sam/3658.m3u8
+#EXTINF:-1,Sky Cinema Modern Greats HD
+http://51.255.88.38:8000/live/sam/sam/3646.m3u8
+#EXTINF:-1,Sky Premiere
+http://51.255.88.38:8000/live/sam/sam/3663.m3u8
+#EXTINF:-1,Sky ScFi/Horror
+http://51.255.88.38:8000/live/sam/sam/3648.m3u8
+#EXTINF:-1,Sky Select HD
+http://51.255.88.38:8000/live/sam/sam/3638.m3u8
+#EXTINF:-1,Sky Hits
+http://51.255.88.38:8000/live/sam/sam/3636.m3u8
+#EXTINF:-1,Sky Cinema Box Office 1 HD 1080p
+http://51.255.88.38:8000/live/sam/sam/4245.m3u8
+#EXTINF:-1,Sky Cinema Box Office 2 HD 1080p
+http://51.255.88.38:8000/live/sam/sam/4244.m3u8
+#EXTINF:-1,Sky Cinema Box Office 3 HD 1080p
+http://51.255.88.38:8000/live/sam/sam/4243.m3u8
+#EXTINF:-1,Sky Cinema Box Office 4 HD 1080p
+http://51.255.88.38:8000/live/sam/sam/4242.m3u8
+#EXTINF:-1,Sky Cinema Box Office 3D 1080p
+http://51.255.88.38:8000/live/sam/sam/4246.m3u8
+#EXTINF:-1,Sky SpN HQ HD
+http://51.255.88.38:8000/live/sam/sam/387.m3u8
+#EXTINF:-1,Sky Sports F1
+http://51.255.88.38:8000/live/sam/sam/15.m3u8
+#EXTINF:-1,Sky Sports Main Events HD
+http://51.255.88.38:8000/live/sam/sam/2.m3u8
+#EXTINF:-1,Sky Sports Cricket HD
+http://51.255.88.38:8000/live/sam/sam/3.m3u8
+#EXTINF:-1,Sky Sports Action HD
+http://51.255.88.38:8000/live/sam/sam/4.m3u8
+#EXTINF:-1,Sky Sports The Open HD
+http://51.255.88.38:8000/live/sam/sam/5.m3u8
+#EXTINF:-1,Sky Sports Premier League HD
+http://51.255.88.38:8000/live/sam/sam/2165.m3u8
+#EXTINF:-1,Sky Sports Arena  HD
+http://51.255.88.38:8000/live/sam/sam/5118.m3u8
+#EXTINF:-1,Sky Sport Football HD
+http://51.255.88.38:8000/live/sam/sam/5114.m3u8
+#EXTINF:-1,BT Sport 1 HD
+http://51.255.88.38:8000/live/sam/sam/8.m3u8
+#EXTINF:-1,BT Sport 2 HD
+http://51.255.88.38:8000/live/sam/sam/9.m3u8
+#EXTINF:-1,BT Sport 3 HD
+http://51.255.88.38:8000/live/sam/sam/12.m3u8
+#EXTINF:-1,BT Sport / ESPN
+http://51.255.88.38:8000/live/sam/sam/367.m3u8
+#EXTINF:-1,BT Sport 1 SD
+http://51.255.88.38:8000/live/sam/sam/39.m3u8
+#EXTINF:-1,BT Sport 2 SD
+http://51.255.88.38:8000/live/sam/sam/40.m3u8
+#EXTINF:-1,BT Sports 3 SD
+http://51.255.88.38:8000/live/sam/sam/41.m3u8
+#EXTINF:-1,Boxnation*
+http://51.255.88.38:8000/live/sam/sam/1760.m3u8
+#EXTINF:-1,Boxnation
+http://51.255.88.38:8000/live/sam/sam/3247.m3u8
+#EXTINF:-1,Premier Sports
+http://51.255.88.38:8000/live/sam/sam/55.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://51.255.88.38:8000/live/sam/sam/323.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://51.255.88.38:8000/live/sam/sam/396.m3u8
+#EXTINF:-1,At The Races
+http://51.255.88.38:8000/live/sam/sam/57.m3u8
+#EXTINF:-1,Racing UK
+http://51.255.88.38:8000/live/sam/sam/58.m3u8
+#EXTINF:-1,MUTV HD
+http://51.255.88.38:8000/live/sam/sam/2225.m3u8
+#EXTINF:-1,LFCTV HD
+http://51.255.88.38:8000/live/sam/sam/59.m3u8
+#EXTINF:-1,Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8?sd=10&rebase=on%3Ftime%3D1476941527814
+#EXTINF:-1,eir sport  1
+http://51.255.88.38:8000/live/sam/sam/32.m3u8
+#EXTINF:-1,eir sport 2
+http://51.255.88.38:8000/live/sam/sam/574.m3u8
+#EXTINF:-1,Rangers TV
+http://51.255.88.38:8000/live/sam/sam/4179.m3u8
+#EXTINF:-1,Celtic Tv
+http://51.255.88.38:8000/live/sam/sam/1579.m3u8
+#EXTINF:-1,HIBS TV
+https://rebrand.ly/a8e5
+#EXTINF:-1,Aberdeen TV
+https://rebrand.ly/SHEEP_PLEX
+#EXTINF:-1,ESPN U HD
+http://51.255.88.38:8000/live/sam/sam/5078.m3u8
+#EXTINF:-1,ESPN USA HD
+http://51.255.88.38:8000/live/sam/sam/5079.m3u8
+#EXTINF:-1,ESPN2 HD
+http://51.255.88.38:8000/live/sam/sam/5077.m3u8
+#EXTINF:-1,TSN 1
+http://51.255.88.38:8000/live/sam/sam/17.m3u8
+#EXTINF:-1,TSN 2
+http://51.255.88.38:8000/live/sam/sam/18.m3u8
+#EXTINF:-1,TSN 3
+http://51.255.88.38:8000/live/sam/sam/19.m3u8
+#EXTINF:-1,TSN 4
+http://51.255.88.38:8000/live/sam/sam/20.m3u8
+#EXTINF:-1,TSN 5
+http://51.255.88.38:8000/live/sam/sam/21.m3u8
+#EXTINF:-1,Sports Net World
+http://51.255.88.38:8000/live/sam/sam/1059.m3u8
+#EXTINF:-1,Sports Net Ontario
+http://51.255.88.38:8000/live/sam/sam/1065.m3u8
+#EXTINF:-1,Sports Net One
+http://51.255.88.38:8000/live/sam/sam/1056.m3u8
+#EXTINF:-1,Sportsnet 360 HD
+http://51.255.88.38:8000/live/sam/sam/2067.m3u8
+#EXTINF:-1,NFL Network
+http://51.255.88.38:8000/live/sam/sam/3241.m3u8
+#EXTINF:-1,The Golf Channel
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,FOX Sports 1
+http://51.255.88.38:8000/live/sam/sam/10.m3u8
+#EXTINF:-1,Fox Sports 2
+http://51.255.88.38:8000/live/sam/sam/11.m3u8
+#EXTINF:-1,NBCSN
+http://51.255.88.38:8000/live/sam/sam/14.m3u8
+#EXTINF:-1,USA-Pac 12 (Mountain)
+http://51.255.88.38:8000/live/sam/sam/3007.m3u8
+#EXTINF:-1,USA-PAC 12 (National)
+http://51.255.88.38:8000/live/sam/sam/3006.m3u8
+#EXTINF:-1,USA-PAC-12 (Arizona)
+http://51.255.88.38:8000/live/sam/sam/3008.m3u8
+#EXTINF:-1,USA-PAC-12 (Bay Area)
+http://51.255.88.38:8000/live/sam/sam/3010.m3u8
+#EXTINF:-1,USA-PAC-12 (Los Angeles)
+http://51.255.88.38:8000/live/sam/sam/3009.m3u8
+#EXTINF:-1,USA-PAC-12 (Oregon)
+http://51.255.88.38:8000/live/sam/sam/3011.m3u8
+#EXTINF:-1,USA-PAC-12 (Washington)
+http://51.255.88.38:8000/live/sam/sam/3012.m3u8
+#EXTINF:-1,USA| A and E USA HD
+http://51.255.88.38:8000/live/sam/sam/3584.m3u8
+#EXTINF:-1,USA| ABC HD
+http://51.255.88.38:8000/live/sam/sam/3582.m3u8
+#EXTINF:-1,AMC HD
+http://51.255.88.38:8000/live/sam/sam/3580.m3u8
+#EXTINF:-1,USA| Animal Planet USA SD US
+http://51.255.88.38:8000/live/sam/sam/3577.m3u8
+#EXTINF:-1,USA| Bravo USA SD
+http://51.255.88.38:8000/live/sam/sam/3575.m3u8
+#EXTINF:-1,USA| CBS HD
+http://51.255.88.38:8000/live/sam/sam/3572.m3u8
+#EXTINF:-1,USA| CNN HD
+http://51.255.88.38:8000/live/sam/sam/3567.m3u8
+#EXTINF:-1,USA| CNBC HD
+http://51.255.88.38:8000/live/sam/sam/5076.m3u8
+#EXTINF:-1,USA| Comedy Central HD
+http://51.255.88.38:8000/live/sam/sam/3566.m3u8
+#EXTINF:-1,USA| Comedy Central USA SD
+http://51.255.88.38:8000/live/sam/sam/3565.m3u8
+#EXTINF:-1,USA| CW HD
+http://51.255.88.38:8000/live/sam/sam/3564.m3u8
+#EXTINF:-1,USA| Discovery Channel USA HD
+http://51.255.88.38:8000/live/sam/sam/3561.m3u8
+#EXTINF:-1,USA| ESPN USA HD
+http://51.255.88.38:8000/live/sam/sam/3560.m3u8
+#EXTINF:-1,USA| HGTV USA  HD
+http://51.255.88.38:8000/live/sam/sam/3552.m3u8
+#EXTINF:-1,USA| History Channel USA HD
+http://51.255.88.38:8000/live/sam/sam/3551.m3u8
+#EXTINF:-1,USA| History Channel USA SD
+http://51.255.88.38:8000/live/sam/sam/3550.m3u8
+#EXTINF:-1,USA| National Geographics Channel USA HD
+http://51.255.88.38:8000/live/sam/sam/3544.m3u8
+#EXTINF:-1,USA| NBC USA HD
+http://51.255.88.38:8000/live/sam/sam/3543.m3u8
+#EXTINF:-1,USA| NBC USA SD US
+http://51.255.88.38:8000/live/sam/sam/3542.m3u8
+#EXTINF:-1,USA| SYFY USA SD
+http://51.255.88.38:8000/live/sam/sam/3534.m3u8
+#EXTINF:-1,USA| TBS HD
+http://51.255.88.38:8000/live/sam/sam/3533.m3u8
+#EXTINF:-1,USA| TBS SD
+http://51.255.88.38:8000/live/sam/sam/3532.m3u8
+#EXTINF:-1,USA|TNT HD
+http://51.255.88.38:8000/live/sam/sam/3531.m3u8
+#EXTINF:-1,USA| TNT USA SD
+http://51.255.88.38:8000/live/sam/sam/3530.m3u8
+#EXTINF:-1,USA| USA Network HD
+http://51.255.88.38:8000/live/sam/sam/3529.m3u8
+#EXTINF:-1,USA| USA Network SD
+http://51.255.88.38:8000/live/sam/sam/3528.m3u8
+#EXTINF:-1,USA | FOX News
+http://51.255.88.38:8000/live/sam/sam/1342.m3u8
+#EXTINF:-1,USA | CNN News
+http://51.255.88.38:8000/live/sam/sam/1312.m3u8
+#EXTINF:-1,USA | CBSN News HD
+http://51.255.88.38:8000/live/sam/sam/300.m3u8
+#EXTINF:-1,USA | Bloomberg
+http://51.255.88.38:8000/live/sam/sam/322.m3u8
+#EXTINF:-1,BEIN 1 HD
+http://51.255.88.38:8000/live/sam/sam/2142.m3u8
+#EXTINF:-1,BEIN 2 HD
+http://51.255.88.38:8000/live/sam/sam/2143.m3u8
+#EXTINF:-1,BEIN 3 HD
+http://51.255.88.38:8000/live/sam/sam/2144.m3u8
+#EXTINF:-1,BEIN 4 HD
+http://51.255.88.38:8000/live/sam/sam/2145.m3u8
+#EXTINF:-1,BEIN 5 HD
+http://51.255.88.38:8000/live/sam/sam/2146.m3u8
+#EXTINF:-1,BEIN 6 HD
+http://51.255.88.38:8000/live/sam/sam/2147.m3u8
+#EXTINF:-1,BEIN 7 HD
+http://51.255.88.38:8000/live/sam/sam/2148.m3u8
+#EXTINF:-1,BEIN 8 HD
+http://51.255.88.38:8000/live/sam/sam/2149.m3u8
+#EXTINF:-1,BEIN 9 HD
+http://51.255.88.38:8000/live/sam/sam/2150.m3u8
+#EXTINF:-1,BEIN 10 HD
+http://51.255.88.38:8000/live/sam/sam/2151.m3u8
+#EXTINF:-1,BEIN Eleven HD
+http://51.255.88.38:8000/live/sam/sam/2152.m3u8
+#EXTINF:-1,BEIN 12 HD
+http://51.255.88.38:8000/live/sam/sam/2153.m3u8
+#EXTINF:-1,Channel 01:Espnews
+http://51.255.88.38:8000/live/sam/sam/2767.m3u8
+#EXTINF:-1,Channel 02:ESPN
+http://51.255.88.38:8000/live/sam/sam/2768.m3u8
+#EXTINF:-1,Channel 03:ESPN 2
+http://51.255.88.38:8000/live/sam/sam/2769.m3u8
+#EXTINF:-1,Channel 04:ESPN U
+http://51.255.88.38:8000/live/sam/sam/2770.m3u8
+#EXTINF:-1,Channel 05:FS1
+http://51.255.88.38:8000/live/sam/sam/2771.m3u8
+#EXTINF:-1,Channel 06:FS2
+http://51.255.88.38:8000/live/sam/sam/2772.m3u8
+#EXTINF:-1,Channel 07:NFL NETWORK
+http://51.255.88.38:8000/live/sam/sam/2773.m3u8
+#EXTINF:-1,Channel 08:NBA TV
+http://51.255.88.38:8000/live/sam/sam/2774.m3u8
+#EXTINF:-1,Channel 09:MLB NETWORK
+http://51.255.88.38:8000/live/sam/sam/2775.m3u8
+#EXTINF:-1,Channel 10:NHL NETWORK
+http://51.255.88.38:8000/live/sam/sam/2776.m3u8
+#EXTINF:-1,Channel 11:NBCSN
+http://51.255.88.38:8000/live/sam/sam/2777.m3u8
+#EXTINF:-1,Channel 12:GOLF CHANNEL
+http://51.255.88.38:8000/live/sam/sam/2778.m3u8
+#EXTINF:-1,Channel 13:TENNIS CHANNEL
+http://51.255.88.38:8000/live/sam/sam/2779.m3u8
+#EXTINF:-1,Channel 14:CBS SPORTS NETWORK
+http://51.255.88.38:8000/live/sam/sam/2780.m3u8
+#EXTINF:-1,Channel 15:FIGHT NETWORK
+http://51.255.88.38:8000/live/sam/sam/2781.m3u8
+#EXTINF:-1,Channel 16: WWE NETWORK
+http://51.255.88.38:8000/live/sam/sam/2782.m3u8
+#EXTINF:-1,Channel 17:SN WORLD
+http://51.255.88.38:8000/live/sam/sam/2783.m3u8
+#EXTINF:-1,Channel 18:SN 360
+http://51.255.88.38:8000/live/sam/sam/2784.m3u8
+#EXTINF:-1,Channel 19:SN ONTARIO
+http://51.255.88.38:8000/live/sam/sam/2785.m3u8
+#EXTINF:-1,Channel 20:SN ONE
+http://51.255.88.38:8000/live/sam/sam/2786.m3u8
+#EXTINF:-1,Channel 21:TSN
+http://51.255.88.38:8000/live/sam/sam/2787.m3u8
+#EXTINF:-1,Channel 22:Univision Deportes
+http://51.255.88.38:8000/live/sam/sam/2788.m3u8
+#EXTINF:-1,Channel 23:ESPN Deportes
+http://51.255.88.38:8000/live/sam/sam/2789.m3u8
+#EXTINF:-1,Channel 24:Comedy Central
+http://51.255.88.38:8000/live/sam/sam/2790.m3u8
+#EXTINF:-1,Channel 25:SPIKE TV
+http://51.255.88.38:8000/live/sam/sam/2791.m3u8
+#EXTINF:-1,Channel 26:USA NETWORK
+http://51.255.88.38:8000/live/sam/sam/2792.m3u8
+#EXTINF:-1,Channel 27:A&E
+http://51.255.88.38:8000/live/sam/sam/2793.m3u8
+#EXTINF:-1,Channel 28:TBS
+http://51.255.88.38:8000/live/sam/sam/2794.m3u8
+#EXTINF:-1,Channel 29:TNT
+http://51.255.88.38:8000/live/sam/sam/2795.m3u8
+#EXTINF:-1,Channel 30:SYFY
+http://51.255.88.38:8000/live/sam/sam/2796.m3u8
+#EXTINF:-1,Channel 31:Cartoon Network
+http://51.255.88.38:8000/live/sam/sam/2797.m3u8
+#EXTINF:-1,Channel 32:HGTV
+http://51.255.88.38:8000/live/sam/sam/2798.m3u8
+#EXTINF:-1,Channel 33:CNN
+http://51.255.88.38:8000/live/sam/sam/2799.m3u8
+#EXTINF:-1,Channel 34:NBC
+http://51.255.88.38:8000/live/sam/sam/2800.m3u8
+#EXTINF:-1,Channel 35:CBS
+http://51.255.88.38:8000/live/sam/sam/2801.m3u8
+#EXTINF:-1,Channel 36:ABC
+http://51.255.88.38:8000/live/sam/sam/2802.m3u8
+#EXTINF:-1,Channel 37:FOX
+http://51.255.88.38:8000/live/sam/sam/2803.m3u8
+#EXTINF:-1,Channel 38:VICELAND
+http://51.255.88.38:8000/live/sam/sam/2804.m3u8
+#EXTINF:-1,Channel 39:CNBC
+http://51.255.88.38:8000/live/sam/sam/2805.m3u8
+#EXTINF:-1,Channel 40:FOX NEWS
+http://51.255.88.38:8000/live/sam/sam/2806.m3u8
+#EXTINF:-1,Channel 41:HISTORY
+http://51.255.88.38:8000/live/sam/sam/2807.m3u8
+#EXTINF:-1,Channel 42:DISCOVERY
+http://51.255.88.38:8000/live/sam/sam/2808.m3u8
+#EXTINF:-1,Channel 43:NAT GEO
+http://51.255.88.38:8000/live/sam/sam/2809.m3u8
+#EXTINF:-1,Channel 44:FX
+http://51.255.88.38:8000/live/sam/sam/2810.m3u8
+#EXTINF:-1,Channel 45:FXX
+http://51.255.88.38:8000/live/sam/sam/2811.m3u8
+#EXTINF:-1,Channel 46:Bein Sports
+http://51.255.88.38:8000/live/sam/sam/2812.m3u8
+#EXTINF:-1,Channel 47:AMC
+http://51.255.88.38:8000/live/sam/sam/2813.m3u8
+#EXTINF:-1,Channel 48:HBO
+http://51.255.88.38:8000/live/sam/sam/2814.m3u8
+#EXTINF:-1,Channel 49:HBO COMEDY
+http://51.255.88.38:8000/live/sam/sam/2815.m3u8
+#EXTINF:-1,Channel 50:HBO SIGNATURE
+http://51.255.88.38:8000/live/sam/sam/2816.m3u8
+#EXTINF:-1,Channel 51:HBO ZONE
+http://51.255.88.38:8000/live/sam/sam/2817.m3u8
+#EXTINF:-1,Channel 52:SHOWTIME
+http://51.255.88.38:8000/live/sam/sam/2818.m3u8
+#EXTINF:-1,Channel 53:ACTION MAX
+http://51.255.88.38:8000/live/sam/sam/2819.m3u8
+#EXTINF:-1,Channel 54:MORE MAX
+http://51.255.88.38:8000/live/sam/sam/2820.m3u8
+#EXTINF:-1,Channel 55: STARZ CINEMA
+http://51.255.88.38:8000/live/sam/sam/2821.m3u8
+#EXTINF:-1,Channel 56: STARZ
+http://51.255.88.38:8000/live/sam/sam/2822.m3u8
+#EXTINF:-1,Channel 57:STARZ ENCORE
+http://51.255.88.38:8000/live/sam/sam/2823.m3u8
+#EXTINF:-1,Channel 58:ID
+http://51.255.88.38:8000/live/sam/sam/2824.m3u8
+#EXTINF:-1,Channel 59:CINEMAX
+http://51.255.88.38:8000/live/sam/sam/2825.m3u8
+#EXTINF:-1,Channel 60:5 STAR MAX
+http://51.255.88.38:8000/live/sam/sam/2826.m3u8
+#EXTINF:-1,Channel 61:BBC AMERICA
+http://51.255.88.38:8000/live/sam/sam/2827.m3u8
+#EXTINF:-1,Channel 62:FOX BUISNESS
+http://51.255.88.38:8000/live/sam/sam/2828.m3u8
+#EXTINF:-1,Channel 63:E!
+http://51.255.88.38:8000/live/sam/sam/2829.m3u8
+#EXTINF:-1,Channel 64:MSNBC
+http://51.255.88.38:8000/live/sam/sam/2830.m3u8
+#EXTINF:-1,Channel 65 - Science Channel
+http://51.255.88.38:8000/live/sam/sam/2831.m3u8
+#EXTINF:-1,Channel 66 - Food Network
+http://51.255.88.38:8000/live/sam/sam/2832.m3u8
+#EXTINF:-1,Channel 67 - Animal Planet
+http://51.255.88.38:8000/live/sam/sam/2833.m3u8
+#EXTINF:-1,Channel 68 - Cooking Channel
+http://51.255.88.38:8000/live/sam/sam/2834.m3u8
+#EXTINF:-1,Channel 69 - Velocity
+http://51.255.88.38:8000/live/sam/sam/2835.m3u8
+#EXTINF:-1,Channel 70
+http://51.255.88.38:8000/live/sam/sam/2836.m3u8
+#EXTINF:-1,Channel 71
+http://51.255.88.38:8000/live/sam/sam/2837.m3u8
+#EXTINF:-1,Channel 72
+http://51.255.88.38:8000/live/sam/sam/2838.m3u8
+#EXTINF:-1,Channel 73
+http://51.255.88.38:8000/live/sam/sam/2839.m3u8
+#EXTINF:-1,Channel 74:MMA TV
+http://51.255.88.38:8000/live/sam/sam/2840.m3u8
+#EXTINF:-1,Channel 75:AXS TV
+http://51.255.88.38:8000/live/sam/sam/2841.m3u8
+#EXTINF:-1,Channel 76:EPIX
+http://51.255.88.38:8000/live/sam/sam/2842.m3u8
+#EXTINF:-1,Channel 77:EPIX 2
+http://51.255.88.38:8000/live/sam/sam/2843.m3u8
+#EXTINF:-1,Channel 78:EPIX 3
+http://51.255.88.38:8000/live/sam/sam/2844.m3u8
+#EXTINF:-1,Channel 79:TLC
+http://51.255.88.38:8000/live/sam/sam/2845.m3u8
+#EXTINF:-1,Channel 80:LIFETIME
+http://51.255.88.38:8000/live/sam/sam/2846.m3u8
+#EXTINF:-1,Channel 81:BRAVO
+http://51.255.88.38:8000/live/sam/sam/2847.m3u8
+#EXTINF:-1,Channel 82:DIY NETWORK
+http://51.255.88.38:8000/live/sam/sam/2848.m3u8
+#EXTINF:-1,Channel 83:OXYGEN
+http://51.255.88.38:8000/live/sam/sam/2849.m3u8
+#EXTINF:-1,Channel 84:CBC NETWORK
+http://51.255.88.38:8000/live/sam/sam/2850.m3u8
+#EXTINF:-1,Channel 85:NAT GEO
+http://51.255.88.38:8000/live/sam/sam/2851.m3u8
+#EXTINF:-1,Channel 86:UNIVISION
+http://51.255.88.38:8000/live/sam/sam/2852.m3u8
+#EXTINF:-1,Channel 87:TELEMUNDO
+http://51.255.88.38:8000/live/sam/sam/2853.m3u8
+#EXTINF:-1,Channel 88
+http://51.255.88.38:8000/live/sam/sam/2854.m3u8
+#EXTINF:-1,Channel 89
+http://51.255.88.38:8000/live/sam/sam/2855.m3u8
+#EXTINF:-1,Channel 90
+http://51.255.88.38:8000/live/sam/sam/2856.m3u8
+#EXTINF:-1,Channel 91
+http://51.255.88.38:8000/live/sam/sam/2857.m3u8
+#EXTINF:-1,Channel 92
+http://51.255.88.38:8000/live/sam/sam/2858.m3u8
+#EXTINF:-1,Channel 93
+http://51.255.88.38:8000/live/sam/sam/2859.m3u8
+#EXTINF:-1,Channel 94
+http://51.255.88.38:8000/live/sam/sam/2860.m3u8
+#EXTINF:-1,Channel 95
+http://51.255.88.38:8000/live/sam/sam/2861.m3u8
+#EXTINF:-1,Channel 96
+http://51.255.88.38:8000/live/sam/sam/2862.m3u8
+#EXTINF:-1,Channel 97
+http://51.255.88.38:8000/live/sam/sam/2863.m3u8
+#EXTINF:-1,Channel 98
+http://51.255.88.38:8000/live/sam/sam/2864.m3u8
+#EXTINF:-1,Channel 99
+http://51.255.88.38:8000/live/sam/sam/2865.m3u8
+#EXTINF:-1,Channel 100:WILLOW HD
+http://51.255.88.38:8000/live/sam/sam/2866.m3u8
+#EXTINF:-1,Channel 101:NICK JR
+http://51.255.88.38:8000/live/sam/sam/2867.m3u8
+#EXTINF:-1,Channel 102:DISNEY CHANNEL
+http://51.255.88.38:8000/live/sam/sam/2868.m3u8
+#EXTINF:-1,Channel 103
+http://51.255.88.38:8000/live/sam/sam/2869.m3u8
+#EXTINF:-1,Channel 104
+http://51.255.88.38:8000/live/sam/sam/2870.m3u8
+#EXTINF:-1,Channel 105
+http://51.255.88.38:8000/live/sam/sam/2871.m3u8
+#EXTINF:-1,Channel 106
+http://51.255.88.38:8000/live/sam/sam/2872.m3u8
+#EXTINF:-1,Channel 107
+http://51.255.88.38:8000/live/sam/sam/2873.m3u8
+#EXTINF:-1,Channel 108:BT 1 HD
+http://51.255.88.38:8000/live/sam/sam/2874.m3u8
+#EXTINF:-1,Channel 109:BT 2 HD
+http://51.255.88.38:8000/live/sam/sam/2875.m3u8
+#EXTINF:-1,Channel 110:BT 3 HD
+http://51.255.88.38:8000/live/sam/sam/2876.m3u8
+#EXTINF:-1,Channel 111 - BT ESPN
+http://51.255.88.38:8000/live/sam/sam/2877.m3u8
+#EXTINF:-1,Channel 112:SS NEWS
+http://51.255.88.38:8000/live/sam/sam/2878.m3u8
+#EXTINF:-1,Channel 113:SS Main Event
+http://51.255.88.38:8000/live/sam/sam/2879.m3u8
+#EXTINF:-1,Channel 114:SS Cricket
+http://51.255.88.38:8000/live/sam/sam/2880.m3u8
+#EXTINF:-1,Channel 115:SS Action
+http://51.255.88.38:8000/live/sam/sam/2881.m3u8
+#EXTINF:-1,Channel 116:SS Golf
+http://51.255.88.38:8000/live/sam/sam/2882.m3u8
+#EXTINF:-1,Channel 117:SS Premier League
+http://51.255.88.38:8000/live/sam/sam/2883.m3u8
+#EXTINF:-1,Channel 118:SS F1
+http://51.255.88.38:8000/live/sam/sam/2884.m3u8
+#EXTINF:-1,Channel 119: SS MIX
+http://51.255.88.38:8000/live/sam/sam/2885.m3u8
+#EXTINF:-1,Channel 120
+http://51.255.88.38:8000/live/sam/sam/2886.m3u8
+#EXTINF:-1,Channel 121:SS Arena
+http://51.255.88.38:8000/live/sam/sam/4529.m3u8
+#EXTINF:-1,Channel 122
+http://51.255.88.38:8000/live/sam/sam/4783.m3u8
+#EXTINF:-1,Channel 123
+http://51.255.88.38:8000/live/sam/sam/4782.m3u8
+#EXTINF:-1,Channel 124
+http://51.255.88.38:8000/live/sam/sam/4881.m3u8
+#EXTINF:-1,Channel 125
+http://51.255.88.38:8000/live/sam/sam/5024.m3u8
+#EXTINF:-1,Channel 126
+http://51.255.88.38:8000/live/sam/sam/5108.m3u8
+#EXTINF:-1,Channel 127
+http://51.255.88.38:8000/live/sam/sam/5109.m3u8
+#EXTINF:-1,Channel 128
+http://51.255.88.38:8000/live/sam/sam/5110.m3u8
+#EXTINF:-1,Channel 129
+http://51.255.88.38:8000/live/sam/sam/5111.m3u8
+#EXTINF:-1,Channel 130
+http://51.255.88.38:8000/live/sam/sam/5112.m3u8
+#EXTINF:-1,Channel 131
+http://51.255.88.38:8000/live/sam/sam/5810.m3u8
+#EXTINF:-1,Channel 132
+http://51.255.88.38:8000/live/sam/sam/5811.m3u8
+#EXTINF:-1,Channel 133
+http://51.255.88.38:8000/live/sam/sam/5812.m3u8
+#EXTINF:-1,Channel 134
+http://51.255.88.38:8000/live/sam/sam/5813.m3u8
+#EXTINF:-1,Channel 135
+http://51.255.88.38:8000/live/sam/sam/5814.m3u8
+#EXTINF:-1,Channel 136
+http://51.255.88.38:8000/live/sam/sam/5833.m3u8
+#EXTINF:-1,Channel 137
+http://51.255.88.38:8000/live/sam/sam/5835.m3u8
+#EXTINF:-1,Channel 138
+http://51.255.88.38:8000/live/sam/sam/5836.m3u8
+#EXTINF:-1,Channel 139
+http://51.255.88.38:8000/live/sam/sam/5837.m3u8
+#EXTINF:-1,Channel 140
+http://51.255.88.38:8000/live/sam/sam/5838.m3u8
+#EXTINF:-1,Channel 141
+http://51.255.88.38:8000/live/sam/sam/5839.m3u8
+#EXTINF:-1,Channel 142
+http://51.255.88.38:8000/live/sam/sam/5840.m3u8
+#EXTINF:-1,Channel 143
+http://51.255.88.38:8000/live/sam/sam/5841.m3u8
+#EXTINF:-1,Channel 144
+http://51.255.88.38:8000/live/sam/sam/5842.m3u8
+#EXTINF:-1,Channel 145
+http://51.255.88.38:8000/live/sam/sam/5843.m3u8
+#EXTINF:-1,Channel 146
+http://51.255.88.38:8000/live/sam/sam/5844.m3u8
+#EXTINF:-1,Channel 147
+http://51.255.88.38:8000/live/sam/sam/5845.m3u8
+#EXTINF:-1,Channel 148
+http://51.255.88.38:8000/live/sam/sam/5846.m3u8
+#EXTINF:-1,Channel 149
+http://51.255.88.38:8000/live/sam/sam/5847.m3u8
+#EXTINF:-1,ufc testin
+http://51.255.88.38:8000/live/sam/sam/4784.m3u8
+#EXTINF:-1,test me
+http://158.69.228.163:8899/GB/UK/RTE_ONE/tracks-v1a1/index.m3u8?token=e8cd679655351d25159ea1fa4b494daf
+#EXTINF:-1,BBC News
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
+#EXTINF:-1,BBC World News
+http://51.255.88.38:8000/live/sam/sam/1314.m3u8
+#EXTINF:-1,Cbeebies
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
+#EXTINF:-1,Pop
+http://51.255.88.38:8000/live/sam/sam/4234.m3u8
+#EXTINF:-1,USA SERVER|Channel 01:Espnews
+http://51.255.88.38:8000/live/sam/sam/5696.m3u8
+#EXTINF:-1,USA SERVER|Channel 02:ESPN
+http://51.255.88.38:8000/live/sam/sam/5695.m3u8
+#EXTINF:-1,USA SERVER|Channel 03:ESPN 2
+http://51.255.88.38:8000/live/sam/sam/5694.m3u8
+#EXTINF:-1,USA SERVER|Channel 04:ESPN U
+http://51.255.88.38:8000/live/sam/sam/5693.m3u8
+#EXTINF:-1,USA SERVER|Channel 05:FS1
+http://51.255.88.38:8000/live/sam/sam/5692.m3u8
+#EXTINF:-1,USA SERVER|Channel 06:FS2
+http://51.255.88.38:8000/live/sam/sam/5691.m3u8
+#EXTINF:-1,USA SERVER|Channel 07:NFL NETWORK
+http://51.255.88.38:8000/live/sam/sam/5690.m3u8
+#EXTINF:-1,USA SERVER|Channel 08:NBA TV
+http://51.255.88.38:8000/live/sam/sam/5689.m3u8
+#EXTINF:-1,USA SERVER|Channel 09:MLB NETWORK
+http://51.255.88.38:8000/live/sam/sam/5688.m3u8
+#EXTINF:-1,USA SERVER|Channel 10:NHL NETWORK
+http://51.255.88.38:8000/live/sam/sam/5687.m3u8
+#EXTINF:-1,USA SERVER|Channel 11:NBCSN
+http://51.255.88.38:8000/live/sam/sam/5686.m3u8
+#EXTINF:-1,USA SERVER|Channel 12:GOLF
+http://51.255.88.38:8000/live/sam/sam/5685.m3u8
+#EXTINF:-1,USA SERVER|Channel 13:TENNIS
+http://51.255.88.38:8000/live/sam/sam/5684.m3u8
+#EXTINF:-1,USA SERVER|Channel 14:CBS SPORTS NETWORK
+http://51.255.88.38:8000/live/sam/sam/5683.m3u8
+#EXTINF:-1,USA SERVER|Channel 15:FIGHT NETWORK
+http://51.255.88.38:8000/live/sam/sam/5682.m3u8
+#EXTINF:-1,USA SERVER|Channel 16: WWE NETWORK
+http://51.255.88.38:8000/live/sam/sam/5681.m3u8
+#EXTINF:-1,USA SERVER|Channel 17:SN WORLD
+http://51.255.88.38:8000/live/sam/sam/5680.m3u8
+#EXTINF:-1,USA SERVER|Channel 18:SN 360
+http://51.255.88.38:8000/live/sam/sam/5679.m3u8
+#EXTINF:-1,USA SERVER|Channel 19:SN ONTARIO
+http://51.255.88.38:8000/live/sam/sam/5678.m3u8
+#EXTINF:-1,USA SERVER|Channel 20:SN ONE
+http://51.255.88.38:8000/live/sam/sam/5677.m3u8
+#EXTINF:-1,USA SERVER|Channel 21:TSN
+http://51.255.88.38:8000/live/sam/sam/5676.m3u8
+#EXTINF:-1,USA SERVER|Channel 22:Univision Deportes
+http://51.255.88.38:8000/live/sam/sam/5675.m3u8
+#EXTINF:-1,USA SERVER|Channel 23:ESPN Deportes
+http://51.255.88.38:8000/live/sam/sam/5674.m3u8
+#EXTINF:-1,USA SERVER|Channel 24:Comedy Central
+http://51.255.88.38:8000/live/sam/sam/5673.m3u8
+#EXTINF:-1,USA SERVER|Channel 25:SPIKE TV
+http://51.255.88.38:8000/live/sam/sam/5672.m3u8
+#EXTINF:-1,USA SERVER|Channel 26:USA NETWORK
+http://51.255.88.38:8000/live/sam/sam/5671.m3u8
+#EXTINF:-1,USA SERVER|Channel 27:A&E
+http://51.255.88.38:8000/live/sam/sam/5670.m3u8
+#EXTINF:-1,USA SERVER|Channel 28:TBS
+http://51.255.88.38:8000/live/sam/sam/5669.m3u8
+#EXTINF:-1,USA SERVER|Channel 29:TNT
+http://51.255.88.38:8000/live/sam/sam/5668.m3u8
+#EXTINF:-1,USA SERVER|Channel 30:SYFY
+http://51.255.88.38:8000/live/sam/sam/5667.m3u8
+#EXTINF:-1,USA SERVER|Channel 31:Cartoon Network
+http://51.255.88.38:8000/live/sam/sam/5666.m3u8
+#EXTINF:-1,USA SERVER|Channel 32:HGTV
+http://51.255.88.38:8000/live/sam/sam/5665.m3u8
+#EXTINF:-1,USA SERVER|Channel 33:CNN
+http://51.255.88.38:8000/live/sam/sam/5664.m3u8
+#EXTINF:-1,USA SERVER|Channel 34:NBC
+http://51.255.88.38:8000/live/sam/sam/5663.m3u8
+#EXTINF:-1,USA SERVER|Channel 35:CBS
+http://51.255.88.38:8000/live/sam/sam/5662.m3u8
+#EXTINF:-1,USA SERVER|Channel 36:ABC
+http://51.255.88.38:8000/live/sam/sam/5661.m3u8
+#EXTINF:-1,USA SERVER|Channel 37:FOX
+http://51.255.88.38:8000/live/sam/sam/5660.m3u8
+#EXTINF:-1,USA SERVER|Channel 38:VICELAND
+http://51.255.88.38:8000/live/sam/sam/5659.m3u8
+#EXTINF:-1,USA SERVER|Channel 39:CNBC
+http://51.255.88.38:8000/live/sam/sam/5658.m3u8
+#EXTINF:-1,USA SERVER|Channel 40:FOX NEWS
+http://51.255.88.38:8000/live/sam/sam/5657.m3u8
+#EXTINF:-1,USA SERVER|Channel 41:HISTORY
+http://51.255.88.38:8000/live/sam/sam/5656.m3u8
+#EXTINF:-1,USA SERVER|Channel 42:DISCOVERY
+http://51.255.88.38:8000/live/sam/sam/5655.m3u8
+#EXTINF:-1,USA SERVER|Channel 43:NAT GEO
+http://51.255.88.38:8000/live/sam/sam/5654.m3u8
+#EXTINF:-1,USA SERVER|Channel 44:FX
+http://51.255.88.38:8000/live/sam/sam/5653.m3u8
+#EXTINF:-1,USA SERVER|Channel 45:FXX
+http://51.255.88.38:8000/live/sam/sam/5652.m3u8
+#EXTINF:-1,USA SERVER|Channel 46:Bein Sports
+http://51.255.88.38:8000/live/sam/sam/5651.m3u8
+#EXTINF:-1,USA SERVER|Channel 47:AMC
+http://51.255.88.38:8000/live/sam/sam/5650.m3u8
+#EXTINF:-1,USA SERVER|Channel 48:HBO
+http://51.255.88.38:8000/live/sam/sam/5649.m3u8
+#EXTINF:-1,USA SERVER|Channel 49:HBO COMEDY
+http://51.255.88.38:8000/live/sam/sam/5648.m3u8
+#EXTINF:-1,USA SERVER|Channel 50:HBO SIGNATURE
+http://51.255.88.38:8000/live/sam/sam/5647.m3u8
+#EXTINF:-1,USA SERVER|Channel 51:HBO ZONE
+http://51.255.88.38:8000/live/sam/sam/5646.m3u8
+#EXTINF:-1,USA SERVER|Channel 52:SHOWTIME
+http://51.255.88.38:8000/live/sam/sam/5645.m3u8
+#EXTINF:-1,USA SERVER|Channel 53:ACTION MAX
+http://51.255.88.38:8000/live/sam/sam/5644.m3u8
+#EXTINF:-1,USA SERVER|Channel 54:MORE MAX
+http://51.255.88.38:8000/live/sam/sam/5643.m3u8
+#EXTINF:-1,USA SERVER|Channel 55: STARZ CINEMA
+http://51.255.88.38:8000/live/sam/sam/5642.m3u8
+#EXTINF:-1,USA SERVER|Channel 56: STARZ
+http://51.255.88.38:8000/live/sam/sam/5641.m3u8
+#EXTINF:-1,USA SERVER|Channel 57:STARZ ENCORE
+http://51.255.88.38:8000/live/sam/sam/5640.m3u8
+#EXTINF:-1,USA SERVER|Channel 58:ID
+http://51.255.88.38:8000/live/sam/sam/5639.m3u8
+#EXTINF:-1,USA SERVER|Channel 59:CINEMAX
+http://51.255.88.38:8000/live/sam/sam/5638.m3u8
+#EXTINF:-1,USA SERVER|Channel 60:5 STAR MAX
+http://51.255.88.38:8000/live/sam/sam/5637.m3u8
+#EXTINF:-1,USA SERVER|Channel 61:BBC AMERICA
+http://51.255.88.38:8000/live/sam/sam/5636.m3u8
+#EXTINF:-1,USA SERVER|Channel 62:FOX BUISNESS
+http://51.255.88.38:8000/live/sam/sam/5635.m3u8
+#EXTINF:-1,USA SERVER|Channel 63:E!
+http://51.255.88.38:8000/live/sam/sam/5634.m3u8
+#EXTINF:-1,USA SERVER|Channel 64:MSNBC
+http://51.255.88.38:8000/live/sam/sam/5633.m3u8
+#EXTINF:-1,USA SERVER|Channel 65 - Science
+http://51.255.88.38:8000/live/sam/sam/5632.m3u8
+#EXTINF:-1,USA SERVER|Channel 66 - Food Network
+http://51.255.88.38:8000/live/sam/sam/5631.m3u8
+#EXTINF:-1,USA SERVER|Channel 67 - Animal Planet
+http://51.255.88.38:8000/live/sam/sam/5630.m3u8
+#EXTINF:-1,USA SERVER|Channel 68 - Cooking
+http://51.255.88.38:8000/live/sam/sam/5629.m3u8
+#EXTINF:-1,USA SERVER|Channel 69 - Velocity
+http://51.255.88.38:8000/live/sam/sam/5628.m3u8
+#EXTINF:-1,USA SERVER|Channel 70
+http://51.255.88.38:8000/live/sam/sam/5627.m3u8
+#EXTINF:-1,USA SERVER|Channel 71
+http://51.255.88.38:8000/live/sam/sam/5626.m3u8
+#EXTINF:-1,USA SERVER|Channel 72
+http://51.255.88.38:8000/live/sam/sam/5625.m3u8
+#EXTINF:-1,USA SERVER|Channel 73
+http://51.255.88.38:8000/live/sam/sam/5624.m3u8
+#EXTINF:-1,USA SERVER|Channel 74:MMA TV
+http://51.255.88.38:8000/live/sam/sam/5623.m3u8
+#EXTINF:-1,USA SERVER|Channel 75:AXS TV
+http://51.255.88.38:8000/live/sam/sam/5622.m3u8
+#EXTINF:-1,USA SERVER|Channel 76:EPIX
+http://51.255.88.38:8000/live/sam/sam/5621.m3u8
+#EXTINF:-1,USA SERVER|Channel 77:EPIX
+http://51.255.88.38:8000/live/sam/sam/5620.m3u8
+#EXTINF:-1,USA SERVER|Channel 78:EPIX
+http://51.255.88.38:8000/live/sam/sam/5619.m3u8
+#EXTINF:-1,USA SERVER|Channel 79:TLC
+http://51.255.88.38:8000/live/sam/sam/5618.m3u8
+#EXTINF:-1,USA SERVER|Channel 80:LIFETIME
+http://51.255.88.38:8000/live/sam/sam/5617.m3u8
+#EXTINF:-1,USA SERVER|Channel 81:BRAVO
+http://51.255.88.38:8000/live/sam/sam/5616.m3u8
+#EXTINF:-1,USA SERVER|Channel 82:DIY NETWORK
+http://51.255.88.38:8000/live/sam/sam/5615.m3u8
+#EXTINF:-1,USA SERVER|Channel 83:OXYGEN
+http://51.255.88.38:8000/live/sam/sam/5614.m3u8
+#EXTINF:-1,USA SERVER|Channel 84:CBC NETWORK
+http://51.255.88.38:8000/live/sam/sam/5613.m3u8
+#EXTINF:-1,USA SERVER|Channel 85:NAT GEO
+http://51.255.88.38:8000/live/sam/sam/5612.m3u8
+#EXTINF:-1,USA SERVER|Channel 86:UNIVISION
+http://51.255.88.38:8000/live/sam/sam/5611.m3u8
+#EXTINF:-1,USA SERVER|Channel 87:TELEMUNDO
+http://51.255.88.38:8000/live/sam/sam/5610.m3u8
+#EXTINF:-1,USA SERVER|Channel 88
+http://51.255.88.38:8000/live/sam/sam/5609.m3u8
+#EXTINF:-1,USA SERVER|Channel 89
+http://51.255.88.38:8000/live/sam/sam/5608.m3u8
+#EXTINF:-1,USA SERVER|Channel 90
+http://51.255.88.38:8000/live/sam/sam/5607.m3u8
+#EXTINF:-1,USA SERVER|Channel 91
+http://51.255.88.38:8000/live/sam/sam/5606.m3u8
+#EXTINF:-1,USA SERVER|Channel 92
+http://51.255.88.38:8000/live/sam/sam/5605.m3u8
+#EXTINF:-1,USA SERVER|Channel 93
+http://51.255.88.38:8000/live/sam/sam/5604.m3u8
+#EXTINF:-1,USA SERVER|Channel 94
+http://51.255.88.38:8000/live/sam/sam/5603.m3u8
+#EXTINF:-1,USA SERVER|Channel 95
+http://51.255.88.38:8000/live/sam/sam/5602.m3u8
+#EXTINF:-1,USA SERVER|Channel 96
+http://51.255.88.38:8000/live/sam/sam/5601.m3u8
+#EXTINF:-1,USA SERVER|Channel 97
+http://51.255.88.38:8000/live/sam/sam/5600.m3u8
+#EXTINF:-1,USA SERVER|Channel 98
+http://51.255.88.38:8000/live/sam/sam/5599.m3u8
+#EXTINF:-1,USA SERVER|Channel 99
+http://51.255.88.38:8000/live/sam/sam/5598.m3u8
+#EXTINF:-1,USA SERVER|Channel 100:WILLOW HD
+http://51.255.88.38:8000/live/sam/sam/5597.m3u8
+#EXTINF:-1,USA SERVER|Channel 101:NICK JR
+http://51.255.88.38:8000/live/sam/sam/5596.m3u8
+#EXTINF:-1,USA SERVER|Channel 102:DISNEY
+http://51.255.88.38:8000/live/sam/sam/5595.m3u8
+#EXTINF:-1,USA SERVER|Channel 103
+http://51.255.88.38:8000/live/sam/sam/5594.m3u8
+#EXTINF:-1,USA SERVER|Channel 104
+http://51.255.88.38:8000/live/sam/sam/5593.m3u8
+#EXTINF:-1,USA SERVER|Channel 105
+http://51.255.88.38:8000/live/sam/sam/5592.m3u8
+#EXTINF:-1,USA SERVER|Channel 106
+http://51.255.88.38:8000/live/sam/sam/5591.m3u8
+#EXTINF:-1,USA SERVER|Channel 107
+http://51.255.88.38:8000/live/sam/sam/5590.m3u8
+#EXTINF:-1,USA SERVER|Channel 108:BT 1 HD
+http://51.255.88.38:8000/live/sam/sam/5589.m3u8
+#EXTINF:-1,USA SERVER|Channel 109:BT 2 HD
+http://51.255.88.38:8000/live/sam/sam/5588.m3u8
+#EXTINF:-1,USA SERVER|Channel 110:BT 3 HD
+http://51.255.88.38:8000/live/sam/sam/5587.m3u8
+#EXTINF:-1,USA SERVER|Channel 111 - BT ESPN
+http://51.255.88.38:8000/live/sam/sam/5586.m3u8
+#EXTINF:-1,USA SERVER|Channel 112:SS NEWS
+http://51.255.88.38:8000/live/sam/sam/5585.m3u8
+#EXTINF:-1,USA SERVER|Channel 113:SS Main Event
+http://51.255.88.38:8000/live/sam/sam/5584.m3u8
+#EXTINF:-1,USA SERVER|Channel 114:SS Cricket
+http://51.255.88.38:8000/live/sam/sam/5583.m3u8
+#EXTINF:-1,USA SERVER|Channel 115:SS Action
+http://51.255.88.38:8000/live/sam/sam/5582.m3u8
+#EXTINF:-1,USA SERVER|Channel 116:SS Golf
+http://51.255.88.38:8000/live/sam/sam/5581.m3u8
+#EXTINF:-1,USA SERVER|Channel 117:SS Premier League
+http://51.255.88.38:8000/live/sam/sam/5580.m3u8
+#EXTINF:-1,USA SERVER|Channel 118:SS F1
+http://51.255.88.38:8000/live/sam/sam/5579.m3u8
+#EXTINF:-1,USA SERVER|Channel 119: SS MIX
+http://51.255.88.38:8000/live/sam/sam/5578.m3u8
+#EXTINF:-1,USA SERVER|Channel 120
+http://51.255.88.38:8000/live/sam/sam/5577.m3u8
+#EXTINF:-1,USA SERVER|Channel 121:SS Arena
+http://51.255.88.38:8000/live/sam/sam/5576.m3u8
+#EXTINF:-1,USA SERVER|Channel 122
+http://51.255.88.38:8000/live/sam/sam/5575.m3u8
+#EXTINF:-1,USA SERVER|Channel 123
+http://51.255.88.38:8000/live/sam/sam/5574.m3u8
+#EXTINF:-1,USA SERVER|Channel 124
+http://51.255.88.38:8000/live/sam/sam/5573.m3u8
+#EXTINF:-1,USA SERVER|Channel 125
+http://51.255.88.38:8000/live/sam/sam/5572.m3u8
+#EXTINF:-1,USA SERVER|Channel 126
+http://51.255.88.38:8000/live/sam/sam/5571.m3u8
+#EXTINF:-1,USA SERVER|Channel 127
+http://51.255.88.38:8000/live/sam/sam/5570.m3u8
+#EXTINF:-1,USA SERVER|Channel 128
+http://51.255.88.38:8000/live/sam/sam/5569.m3u8
+#EXTINF:-1,USA SERVER|Channel 129
+http://51.255.88.38:8000/live/sam/sam/5568.m3u8
+#EXTINF:-1,USA SERVER|Channel 130
+http://51.255.88.38:8000/live/sam/sam/5567.m3u8
+#EXTINF:-1,Mayweather Vs McGregor
+http://213.136.86.46/onDemand/SPORTS/BOXING/Mayweather-vs-McGregor.mp4
+#EXTINF:-1,Boxing: Anthony Joshua v Wladimir Klitschko - 29 April 2017
+http://213.136.86.46/onDemand/SPORTS/BOXING/anthony.joshua.vs.wladimir.klitschko.mkv
+#EXTINF:-1,Boxing: Canelo Alvarez v Julio Cesar Chavez - 06 May 2017
+rtmp://185.152.64.185:1935/vod/media/ALVAREZCHAVEZMAINHD.mp4
+#EXTINF:-1,UFC 212 04/06/2017
+rtmp://185.152.64.185:1935/vod/media/UFC.212.Aldo.vs.Holloway.WEB.DL.H264.SF63.mp4
+#EXTINF:-1,F1 Azerbaijan grand prix 25/06/2017
+rtmp://185.152.64.185:1935/vod/media/F1GRANDPRIXAZERBAIJANSKYHD.flv
+#EXTINF:-1,Speedway grand prix Horsens 13/06/2017
+rtmp://185.152.64.185:1935/vod/media/BTSPORTS21080SPEEDWAYHORSENSGRANDPRIX.flv
+#EXTINF:-1,Moto gp Netherlands 25/06/2017
+rtmp://185.152.64.185:1935/vod/media/motogpraceofnetherlandsbein.flv
+#EXTINF:-1,Speedway British speedway final 19/06/2017
+rtmp://185.152.64.185:1935/vod/media/speedwaybritishfinal.mp4
+#EXTINF:-1,RoH: Best In The World - 23 June 2017
+rtmp://185.152.64.185:1935/vod/media/GAMEZONE7SDROHBESTINTHEWORLD.mp4
+#EXTINF:-1,UFC Fight night 110- 11/06/2017
+rtmp://185.152.64.185:1935/vod/media/UFC.Fight.Night.110.720p.WEB-DL.H264.Fight-BB.mp4
+#EXTINF:-1,UFC Fight night 111 - 17/06/2017
+rtmp://185.152.64.185:1935/vod/media/UFC.Fight.Night.111.WEB-DL.H264.Fight-BB.mp4
+#EXTINF:-1,UFC Fight night 112 - 26/06/2017
+rtmp://185.152.64.185:1935/vod/media/UFC.Fight.Night.112.WEB-DL.H264.Fight-BB.mp4
+#EXTINF:-1,Speedway Grand prix Slovenia 13/06/2017
+rtmp://185.152.64.185:1935/vod/media/speedwaysloveniafull.mp4
+#EXTINF:-1,Moto gp Spain 10/06/2017
+rtmp://185.152.64.185:1935/vod/media/motogpraceofspainbt.flv
+#EXTINF:-1,F1 Canadian Grand Prix 11/06/2017
+rtmp://185.152.64.185:1935/vod/media/canadiangrandprixsdoutput.mp4
+#EXTINF:-1,Speedway Grand prix Czech Republic 10/06/2017
+rtmp://185.152.64.185:1935/vod/media/BTSPORTSSPEEDWAYczech.mp4
+#EXTINF:-1,Speedway Poole v Belle Vue 26/06/2017
+rtmp://185.152.64.185:1935/vod/media/speedwaypoolebellevue1080.flv
+#EXTINF:-1,RUGBY New Zealand v British and Irish lions 01/07/2017
+rtmp://185.152.64.185:1935/vod/media/skysports1sdlionsnz.flv
+#EXTINF:-1,BOXING Manny Pacquiao v Jeff Horn 02/07/2017
+rtmp://185.152.64.185:1935/vod/media/MANNYPACQUIAOVJEFFHORNFULLBROADCAST.flv
+#EXTINF:-1,BOXING Alexander Povetkin v Andriy Rudenko 01/07/2017
+rtmp://185.152.64.185:1935/vod/media/GAMEZONE6SDALEXANDERPOVETKINANDRIYRUDENKO.flv
+#EXTINF:-1,BOXING Frank Buglioni v Ricky summers 02/07/2017
+rtmp://185.152.64.185:1935/vod/media/SKYSPORTS11080BACKUPFRANKBUGLIONIRICKYSUMMERS.flv
+#EXTINF:-1,Chris.Eubank.Jr.vs.Arthur.Abraham 15/7/2017
+http://www.devilsorigin.com/ondemand/sport/Boxing/2017.07.15.Chris.Eubank.Jr.vs.Arthur.Abraham.ITV.HDTV.x264.mkv
+#EXTINF:-1,Ufc Fight Night 113 16/7/17
+http://www.devilsorigin.com/ondemand/sport/MMA/UFC/UFC.Fight.Night.113.720p.WEB-DL.H264.Fight-BB.mp4
+#EXTINF:-1,UFC on fox 25 Weidman v Gastelum
+rtmp://185.152.64.185:1935/vod/media/UFC.on.Fox.25.WEB-DL.H264.Fight-BB.mp4
+#EXTINF:-1,SPEEDWAY Grand Prix Cardiff
+rtmp://185.152.64.185:1935/vod/media/BTSPORT2HD.SPEEDWAYGRANDPRIXCARDIFF.flv
+#EXTINF:-1,RoH: Wrestling - 21 July 2017
+rtmp://185.152.64.185:1935/vod/media/ROH.Wrestling.16th.July.2017.720p.WEBRip.h264-TJ.mp4
+#EXTINF:-1,WWE: NXT - 19 July 2017
+http://x.co/6mPTP
+#EXTINF:-1,WWE: Smackdown - 18 July 2017
+http://x.co/6mQo4
+#EXTINF:-1,FOOTBALL Barcelona v Juventus 23/07/17
+rtmp://185.152.64.185:1935/vod/media/GAMEZONE12SD.JUVENTUS.BARCA.flv
+#EXTINF:-1,WWE: Battleground - 23 July 2017 (HD)
+rtmp://185.152.64.185:1935/vod/media/battleground17hd.mp4
+#EXTINF:-1,WWE: Battleground - 23 July 2017 (SD)
+rtmp://185.152.64.185:1935/vod/media/battleground17sd.mp4
+#EXTINF:-1,UFC - ufc.on.fox.25.prelims
+http://213.136.86.46/onDemand/SPORTS/UFC/ufc.on.fox.25.prelims.mkv
+#EXTINF:-1,UFC - Weidman.vs.Gastelum
+http://136.86.46/onDemand/SPORTS/UFC/Weidman.vs.Gastelum.mp4
+#EXTINF:-1,Tottenham Hostpur vs AS Roma Highlights
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/spursroma.mp4
+#EXTINF:-1,Toluca vs Atletico Madrid Highlights
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/tolucaatleticomadrid.mp4
+#EXTINF:-1,Luton Town vs Leicester City Highlights
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/lutonleicester.mp4
+#EXTINF:-1,Seattle Sounders vs DC United 23 July
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/seattlevsdcunited.mp4
+#EXTINF:-1,Vancouver vs Portland Timbers 23 July
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/vancouvervsportland.mp4
+#EXTINF:-1,Dynamo Kyiv vs Young Boys Highlights 26 July
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/dynamokyivvsyoungboys.mp4
+#EXTINF:-1,New England vs LA Galaxy 23 July
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/newenglandvsgalaxy.mp4
+#EXTINF:-1,Salzburg vs Rijeka Highlights 26 July
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/salzburgvsrijeka.mp4
+#EXTINF:-1,AEK Athens vs CSKA Moskow Highlights 26 July
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/athensvsmoscow.mp4
+#EXTINF:-1,Nice vs Ajax Highlights 26 July
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/nicevsajax.mp4
+#EXTINF:-1,Barcelona vs Manchester United Replay 26 July
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/FCBvsManUtd.mp4
+#EXTINF:-1,Celtic vs Rosenborg 1st Half 26 July
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/celticrosenborg1half.mp4
+#EXTINF:-1,Celtic vs Rosenborg 2nd Half 26 July
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/celticrosenborg2half.mp4
+#EXTINF:-1,Celtic vs Rosenborg Highlights 26 July
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/celticrosenborghighlights.mp4
+#EXTINF:-1,Chelsea vs Bayern Munich Replay 25 JULY
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/ChelseavsBayern.mp4
+#EXTINF:-1,MLS Review Show Week 20
+https://www.youtube.com/watch?v=zAvuQ9-4FNg
+#EXTINF:-1,WWE: 205 Live - 25 July 2017
+http://x.co/6mRlQ
+#EXTINF:-1,WWE: Battleground - 23 July 2017
+http://x.co/6mRkx
+#EXTINF:-1,WWE: Raw - 24 July 2017
+http://x.co/6mRlO
+#EXTINF:-1,WWE: Smackdown - 25 July 2017
+http://x.co/6mRlP
+#EXTINF:-1,USA vs Jamaica 1st Half - Gold Cup Final
+http://x.co/goldcup1
+#EXTINF:-1,USA vs Jamaica 2nd Half - Gold Cup Final
+http://x.co/goldcup2
+#EXTINF:-1,Werder Bremen v West Ham
+http://foxsocc2godvrhd-vh.akamaihd.net/i/JuvvRma20170603,-0,-1,-2,-3,-4,.mp4.csmil/master.m3u8
+#EXTINF:-1,Sunderland vs Celtic 1st Half 29 July
+http://x.co/suncel1
+#EXTINF:-1,Sunderland vs Celtic 2nd Half 29 July
+http://x.co/suncel2
+#EXTINF:-1,Tottenham vs Man City Highlights 29 July
+https://cdn.video.playwire.com/16240/videos/5425055/video-sd.mp4
+#EXTINF:-1,UFC 214 Cormier v Jones 2
+rtmp://185.152.64.185:1935/vod/media/UFC.214.Cormier.vs.Jones.2.HDTV.x264-Ebi.mp4
+#EXTINF:-1,Real Madrid v Barcelona friendly highlights 29 July
+https://cdn.video.playwire.com/16240/videos/5425071/video-sd.mp4
+#EXTINF:-1,UFC 214 Main Event
+http://213.136.86.46/onDemand/SPORTS/UFC/UFC.214.Cormier.vs.Jones.2.mp4
+#EXTINF:-1,Atlanta United vs Orlando City Replay 29 July
+http://x.co/AtlOrlando
+#EXTINF:-1,LA Galaxy vs Seattle Sounders Replay 29 July
+http://x.co/LAvsSEA
+#EXTINF:-1,New York Red Bulls vs Montreal Replay 29 July
+http://x.co/RBNYmont
+#EXTINF:-1,HUNGARIAN GRAND PRIX 30 JULY
+http://213.136.86.46/onDemand/SPORTS/F1/Formula1.2017.R11.Hungarian.Grand.Prix.mkv
+#EXTINF:-1,WWE: Raw - 31 July 2017
+http://x.co/6mVZu
+#EXTINF:-1,BAYERN MUNICH v LIVERPOOL 1 August Highlights
+https://cdn.video.playwire.com/16240/videos/5425595/video-sd.mp4
+#EXTINF:-1,WWE: Smackdown - 01 August 2017
+http://x.co/6mVZv
+#EXTINF:-1,ATLETICO MADRID v LIVERPOOL 2 August
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/AtleticovLiverpool.mp4
+#EXTINF:-1,MAN UTD v SAMPDORIA highlights 2 August
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/ManUtdvSampdoria.mp4
+#EXTINF:-1,ROSENBORG v CELTIC 2nd August
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/RosbergvCeltic.mp4
+#EXTINF:-1,Rosenborg vs Celtic 1st Half Replay 2 August
+http://x.co/rosencelt1
+#EXTINF:-1,MLS All Stars vs Real Madrid Extended Highlights 3 August
+http://krystal.devilsorigin.com/ondemand/sport/Football/GAMES/mlsallstarsvsrealmadrid.mp4
+#EXTINF:-1,Rosenborg vs Celtic 2nd Half Replay 2 August
+http://x.co/rosencelt2
+#EXTINF:-1,Nottingham Forest vs Millwall Highlights 4 August
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/forestvsmillwall.mp4
+#EXTINF:-1,Sunderland vs Derby County Highlights 4 August
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/sunderlandvsderby.mp4
+#EXTINF:-1,Celtic vs Hearts 1st Half 5 Aug
+http://x.co/celhearts1
+#EXTINF:-1,Celtic vs Hearts 2st Half 5 Aug
+http://x.co/celhearts2
+#EXTINF:-1,Vasyl Lomachenko vs Miguel Marriaga
+http://213.136.86.46/onDemand/SPORTS/BOXING/LomachenkovsMarriaga.mp4
+#EXTINF:-1,BORUSSIA DORTMUND vs BAYERN MUNICH 5 Aug German Super Cup
+https://cdn.video.playwire.com/1020737/videos/5426777/video-sd.mp4
+#EXTINF:-1,DC United vs Toronto FC 5 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/MLS.2017-08-05.DC.United.vs.Toronto.FC.720p.WEBRip.AAC2.0.H264.mp4
+#EXTINF:-1,Arsenal v Chelsea Community Shield Highlights
+https://cdn.video.playwire.com/16240/videos/5426852/video-sd.mp4
+#EXTINF:-1,Football On 5 Aug 5th
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/Football_on_5.mp4
+#EXTINF:-1,CELTIC v HEARTS Highlights 5 Aug
+https://cdn.video.playwire.com/16240/videos/5426726/video-sd.mp4
+#EXTINF:-1,WWE: 205 Live - 01 August 2017
+http://x.co/6mVZw
+#EXTINF:-1,Portland vs LA Galaxy
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/Portland%20Timbers%20vs%20Los%20Angeles%20Galaxy%20%2006%20Aug%202017.mp4
+#EXTINF:-1,NYCFC vs New York Red Bulls 6 August
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/nycvsnyrb.mkv
+#EXTINF:-1,WWE: Main Event - 04 August 2017
+http://x.co/6mVZz
+#EXTINF:-1,WWE: Raw - 07 August 2017
+http://x.co/6mZLs
+#EXTINF:-1,Celtic vs Kilmarnock 1st Half 8 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/celtickilmarnock1.mp4
+#EXTINF:-1,WWE: Smackdown - 08 August 2017
+http://x.co/6mZLt
+#EXTINF:-1,Streets of Fire
+http://213.136.86.46/movies/1984.06.01.Streets.Of.Fire.BRDR.mkv
+#EXTINF:-1,Celtic vs Kilmarnock 2nd Half 8 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/celtickilmarnock2.mp4
+#EXTINF:-1,WWE: 205 Live - 08 August 2017
+http://x.co/6mZLu
+#EXTINF:-1,WWE: NXT - 09 August 2017
+http://x.co/6mZLv
+#EXTINF:-1,Arsenal vs Leicester  Highlights 11 August
+https://cdn.video.playwire.com/16240/videos/5426852/video-sd.mp4
+#EXTINF:-1,Patrick Thistle vs Celtic 1st Half 11 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/partickceltic1.mp4
+#EXTINF:-1,Patrick Thistle vs Celtic 2nd Half 11 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/partickceltic2.mp4
+#EXTINF:-1,Watford vs Liverpool Highlights 12 Aug
+https://cdn.video.playwire.com/16240/videos/5428281/video-sd.mp4
+#EXTINF:-1,Chelsea vs Burnley Highlights 12 Aug
+https://cdn.video.playwire.com/16240/videos/5428351/video-sd.mp4
+#EXTINF:-1,Crystal Palace vs Huddersfield Highlights 12 Aug
+https://cdn.video.playwire.com/16240/videos/5428332/video-sd.mp4
+#EXTINF:-1,Everton vs Stoke Highlights 12 Aug
+https://cdn.video.playwire.com/16240/videos/5428328/video-sd.mp4
+#EXTINF:-1,Southampton vs Swansea Highlights 12 Aug
+https://cdn.video.playwire.com/16240/videos/5428330/video-sd.mp4
+#EXTINF:-1,WBA vs Bournemouth Highlights 12 Aug
+https://cdn.video.playwire.com/16240/videos/5428327/video-sd.mp4
+#EXTINF:-1,Millwall vs Bolton Highlights 12 Aug
+https://cdn.video.playwire.com/16240/videos/5428357/video-sd.mp4
+#EXTINF:-1,Brighton vs Man City Highlights 12 Aug
+https://cdn.video.playwire.com/16240/videos/5428395/video-sd.mp4
+#EXTINF:-1,Match of the Day 12 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/motd1-120817.ts
+#EXTINF:-1,New York RB v Orlando City Highlights 13 Aug
+https://cdn.video.playwire.com/16240/videos/5428489/video-sd.mp4
+#EXTINF:-1,Newcastle vs Tottenham Highlights 13 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/NewSpurs.mp4
+#EXTINF:-1,Man Utd vs West Ham Highlights 13 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/manuwh.mp4
+#EXTINF:-1,Juventus vs Lazio Italian Super Cup Highlights 13 Aug
+https://cdn.video.playwire.com/16240/videos/5428616/video-sd.mp4
+#EXTINF:-1,Toronto FC v Portland Timbers
+https://cdn.video.playwire.com/16240/videos/5428484/video-sd.mp4
+#EXTINF:-1,Columbus Crew v Chicago Fire
+https://cdn.video.playwire.com/16240/videos/5428485/video-sd.mp4
+#EXTINF:-1,FC Dallas v Colorado Rapids
+https://cdn.video.playwire.com/16240/videos/5428488/video-sd.mp4
+#EXTINF:-1,New England Revs v Vancouver Whitecaps
+https://cdn.video.playwire.com/16240/videos/5428486/video-sd.mp4
+#EXTINF:-1,Houston Dynamos v San Jose Earthquakes
+https://cdn.video.playwire.com/16240/videos/5428491/video-sd.mp4
+#EXTINF:-1,L.A. Galaxy v NYCFC
+https://cdn.video.playwire.com/16240/videos/5428492/video-sd.mp4
+#EXTINF:-1,Seattle Sounders v Sporting KC
+https://cdn.video.playwire.com/16240/videos/5428436/video-sd.mp4
+#EXTINF:-1,Match of the Day 2 13 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/MOTD2/MOTD2.13.08.17.mkv
+#EXTINF:-1,Barcelona v Real Madrid Spanish Super Cup Highlights 13 Aug
+https://cdn.video.playwire.com/16240/videos/5428613/video-sd.mp4
+#EXTINF:-1,Jaws
+http://213.136.86.46/movies/1975.Jaws.BRDR.mp4
+#EXTINF:-1,Blazing Saddles
+http://213.136.86.46/movies/1974.Blazing.Saddles.BRDR.mp4
+#EXTINF:-1,Spotlight
+http://213.136.86.46/movies/2015.Spotlight.BRDR.mp4
+#EXTINF:-1,Hoffenheim v Liverpool Aug 15
+https://cdn.video.playwire.com/16240/videos/5429055/video-sd.mp4
+#EXTINF:-1,Cincinnati v NEW York RB US Open Cup
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/MLS/CINvNYRB.mp4
+#EXTINF:-1,WWE: Raw - 14 August 2017
+http://x.co/6meP3
+#EXTINF:-1,Dawn Of The Planet Of The Apes - Subtitled
+http://213.136.86.46/movies/2014.Dawn.Of.The.Planet.Of.The.Apes.BRDR.(Eng.Subs.For.Non.Eng.Dialogue).mp4
+#EXTINF:-1,GAME OF THRONES S07E06
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S7/Game.of.Thrones.S07E06.mp4
+#EXTINF:-1,GAME OF THRONES S01E07
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S1/Game.of.Thrones.S01E07.mkv
+#EXTINF:-1,WWE: Smackdown - 15 August 2017
+http://x.co/6meP4
+#EXTINF:-1,Real Madrid v Barcelona Spanish Super Cup Highlights 16 Aug
+https://cdn.video.playwire.com/16240/videos/5429305/video-sd.mp4
+#EXTINF:-1,GAME OF THRONES S06E01
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S6/Game.of.ThronesS06E01.mkv
+#EXTINF:-1,Celtic vs Astana Champions League Qualification 16 Aug
+https://cdn.video.playwire.com/16240/videos/5429288/video-sd.mp4
+#EXTINF:-1,Celtic vs FC Astana 1st Half 16 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/celticastana1.mp4
+#EXTINF:-1,Celtic vs FC Astana 2nd Half 16 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/celticastana2.mp4
+#EXTINF:-1,Portland vs NYRB 18 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/Portland%20Timbers%20vs%20New%20York%20Red%20Bulls%20%2018%20August%202017.mp4
+#EXTINF:-1,Kilmarnock vs Celtic 1st Half 19 Aug SPL
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/kilmarnockvceltic1.mp4
+#EXTINF:-1,Kilmarnock vs Celtic 2nd Half 19 Aug SPL
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/kilmarnockvceltic2.mp4
+#EXTINF:-1,Bournemouth v Watford Highlights 19 Aug
+Xxxx
+#EXTINF:-1,Burnley v WBA Highlights 19 Aug
+https://cdn.video.playwire.com/16240/videos/5429766/video-sd.mp4
+#EXTINF:-1,Leicester v Brighton Highlights 19 Aug
+https://cdn.video.playwire.com/16240/videos/5429760/video-sd.mp4
+#EXTINF:-1,Liverpool v Crystal Palace Highlights 19 Aug
+https://cdn.video.playwire.com/16240/videos/5429765/video-sd.mp4
+#EXTINF:-1,Southampton v West Ham Highlights 19 Aug
+https://cdn.video.playwire.com/16240/videos/5429771/video-sd.mp4
+#EXTINF:-1,Stoke v Arsenal Highlights 19 Aug
+https://cdn.video.playwire.com/16240/videos/5429826/video-sd.mp4
+#EXTINF:-1,Swansea v Man Utd  Highlights 19 Aug
+https://cdn.video.playwire.com/16240/videos/5429737/video-sd.mp4
+#EXTINF:-1,Match of the Day 19 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/matchoftheday190817.mp4
+#EXTINF:-1,Benfica v Belenenses 19 Aug PPL (Foreign Commentary)
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/benficabelenenses.mp4
+#EXTINF:-1,Huddersfield Town vs Newcastle Utd 20 Aug
+https://cdn.video.playwire.com/16240/videos/5429949/video-sd.mp4
+#EXTINF:-1,Tottenham vs Chelsea 20 Aug
+https://cdn.video.playwire.com/16240/videos/5429965/video-sd.mp4
+#EXTINF:-1,The Sunday Game (GAA) 20 Aug
+http://213.136.86.46/onDemand/SPORTS/GAA/sundaygame20aug.mp4
+#EXTINF:-1,WWE: 205 Live - 15 August 2017
+http://x.co/6meP6
+#EXTINF:-1,WWE: NXT - 16 August 2017
+http://x.co/6meP8
+#EXTINF:-1,WWE: Main Event - 18 August 2017
+http://x.co/6meP9
+#EXTINF:-1,WWE: Raw - 21 August 2017
+http://x.co/6miyv
+#EXTINF:-1,WWE: NXT TakeOver Brooklyn III - 19 August 2017
+http://213.136.86.46/onDemand/SPORTS/WWE/NXT/2017.08.19.WWE.NXT.TakeOver.Brooklyn.III.mp4
+#EXTINF:-1,WWE: SummerSlam - 20 August 2017
+http://213.136.86.46/onDemand/SPORTS/WWE/PPV/2017.08.20.WWE.SummerSlam.mp4
+#EXTINF:-1,Astana vs Celtic 1st Half 22 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/astanavsceltic1.mp4
+#EXTINF:-1,Astana vs Celtic 2nd Half 22 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/astanavsceltic2.mp4
+#EXTINF:-1,WWE: Smackdown - 22 August 2017
+http://x.co/6miyy
+#EXTINF:-1,WWE: 205 Live - 22 August 2017
+http://x.co/6miyz
+#EXTINF:-1,WWE: NXT - 23 August 2017
+http://x.co/6miz1
+#EXTINF:-1,ITV Champions League Highlights 23 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/UCL.HI.20170823.mp4
+#EXTINF:-1,Premier League World 24 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/Premier%20League%20World%20-%2024th%20August%202017.mp4
+#EXTINF:-1,Ligue 1 Show 25 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/Ligue%201%20Show%20-%2025th%20August%202017.mp4
+#EXTINF:-1,Bundesliga Weekly 25 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/Bundesliga%20Weekly%20-%2025th%20August%202017.mp4
+#EXTINF:-1,Mayweather vs McGregor - Final Press Conference
+http://213.136.86.46/onDemand/SPORTS/UFC/Mayweather%20vs%20McGregor_%20Final%20Press%20Conference.mp4
+#EXTINF:-1,Sky Sports The Debate 24 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/The%20Debate%20-%2024th%20August%202017.mp4
+#EXTINF:-1,Bournemouth v Man City Highlights 26 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/EPL/26.08.17/MCvBFC.mp4
+#EXTINF:-1,Crystal Palace v Swansea Highlights 26 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/EPL/26.08.17/PALvSWAN.mp4
+#EXTINF:-1,Huddersfield v Southampton Highlights 26 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/EPL/26.08.17/HUDvSOT.mp4
+#EXTINF:-1,Newcastle v West Ham Highlights 26 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/EPL/26.08.17/NEWvWH.mp4
+#EXTINF:-1,Watford v Brighton Highlights 26 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/EPL/26.08.17/WATvBRI.mp4
+#EXTINF:-1,Man Utd v Leicester Highlights 26 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/EPL/26.08.17/MUvLEI.mp4
+#EXTINF:-1,Floyd Mayweather Jr vs Conor McGregor 26 Aug
+http://213.136.86.46/onDemand/SPORTS/BOXING/boxing.2017.08.27.floyd.mayweather.jr.vs.conor.mcgregor.ppv.720p.hdtv.x264-plutonium.mkv
+#EXTINF:-1,Chelsea v Everton Highlights 27 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/EPL/27.08.17/CHEvEV.mp4
+#EXTINF:-1,WBA v Stoke Highlights 27 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/EPL/27.08.17/WBAvSTO.mp4
+#EXTINF:-1,mayweather v mcgregor
+http://51.255.88.38:8000/movie/sam/sam/5966.mp4
+#EXTINF:-1,Liverpool v Arsenal Highlights 27 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/EPL/27.08.17/LIVvARS.mp4
+#EXTINF:-1,Tottenham v Burnley Highlights 27 Aug
+http://213.136.86.46/onDemand/SPORTS/FOOTBALL/EPL/27.08.17/TOTvBUR.mp4
+#EXTINF:-1,Sky Sports News SD
+http://51.255.88.38:8000/live/sam/sam/38.m3u8
+#EXTINF:-1,Sky Sports Main Events SD
+http://51.255.88.38:8000/live/sam/sam/33.m3u8
+#EXTINF:-1,Sky Sports Cricket SD
+http://51.255.88.38:8000/live/sam/sam/34.m3u8
+#EXTINF:-1,Sky Sports Action SD
+http://51.255.88.38:8000/live/sam/sam/35.m3u8
+#EXTINF:-1,Sky Sports The Open SD
+http://51.255.88.38:8000/live/sam/sam/36.m3u8
+#EXTINF:-1,Sky Sports Premier League SD
+http://51.255.88.38:8000/live/sam/sam/37.m3u8
+#EXTINF:-1,Sky Sports F1 SD
+http://51.255.88.38:8000/live/sam/sam/42.m3u8
+#EXTINF:-1,Sky Sport Football SD
+http://51.255.88.38:8000/live/sam/sam/5115.m3u8
+#EXTINF:-1,24/7 Paw Patrol
+http://51.255.88.38:8000/live/sam/sam/4944.m3u8
+#EXTINF:-1,24/7 Peppa Pig
+http://51.255.88.38:8000/live/sam/sam/4943.m3u8
+#EXTINF:-1,24/7 80's Movies
+http://51.255.88.38:8000/live/sam/sam/5701.m3u8
+#EXTINF:-1,24/7 American Dad
+http://51.255.88.38:8000/live/sam/sam/5722.m3u8
+#EXTINF:-1,24/7 Better Call Saul
+http://51.255.88.38:8000/live/sam/sam/5706.m3u8
+#EXTINF:-1,24/7 Bobs Burgers
+http://51.255.88.38:8000/live/sam/sam/5707.m3u8
+#EXTINF:-1,24/7 Classic Movies
+http://51.255.88.38:8000/live/sam/sam/5721.m3u8
+#EXTINF:-1,24/7 Everybody Loves Raymond
+http://51.255.88.38:8000/live/sam/sam/5700.m3u8
+#EXTINF:-1,24/7 How Its Made
+http://51.255.88.38:8000/live/sam/sam/5720.m3u8
+#EXTINF:-1,24/7 Impractical Jokers
+http://51.255.88.38:8000/live/sam/sam/5719.m3u8
+#EXTINF:-1,24/7 Insanity Workout
+http://51.255.88.38:8000/live/sam/sam/5724.m3u8
+#EXTINF:-1,24/7 Kids Movies
+http://51.255.88.38:8000/live/sam/sam/5718.m3u8
+#EXTINF:-1,24/7 Monty Pythons Flying Circus
+http://51.255.88.38:8000/live/sam/sam/5717.m3u8
+#EXTINF:-1,24/7 Mrs Browns Boys
+http://51.255.88.38:8000/live/sam/sam/5705.m3u8
+#EXTINF:-1,24/7 Only Fools And Horses
+http://51.255.88.38:8000/live/sam/sam/5723.m3u8
+#EXTINF:-1,24/7 P90x Ultimate Home Fitness
+http://51.255.88.38:8000/live/sam/sam/5711.m3u8
+#EXTINF:-1,24/7 P90x Ultimate Workout
+http://51.255.88.38:8000/live/sam/sam/5710.m3u8
+#EXTINF:-1,24/7 Seinfeild
+http://51.255.88.38:8000/live/sam/sam/5704.m3u8
+#EXTINF:-1,24/7 Some Mother Do Av Em
+http://51.255.88.38:8000/live/sam/sam/5716.m3u8
+#EXTINF:-1,24/7 Spartacus
+http://51.255.88.38:8000/live/sam/sam/5699.m3u8
+#EXTINF:-1,24/7 Sponge Bob
+http://51.255.88.38:8000/live/sam/sam/5715.m3u8
+#EXTINF:-1,24/7 Stand Up Comedy Live
+http://51.255.88.38:8000/live/sam/sam/5709.m3u8
+#EXTINF:-1,24/7 Stand Up Comedy Live 2
+http://51.255.88.38:8000/live/sam/sam/5708.m3u8
+#EXTINF:-1,24/7 The Big Bang Theory
+http://51.255.88.38:8000/live/sam/sam/5703.m3u8
+#EXTINF:-1,24/7 The Fresh Prince Of Bel Air
+http://51.255.88.38:8000/live/sam/sam/5714.m3u8
+#EXTINF:-1,24/7 The Inbetweeners
+http://51.255.88.38:8000/live/sam/sam/5698.m3u8
+#EXTINF:-1,24/7 The Jail 60 Days In
+http://51.255.88.38:8000/live/sam/sam/5702.m3u8
+#EXTINF:-1,24/7 Unbreakable Kimmy Schmidt
+http://51.255.88.38:8000/live/sam/sam/5713.m3u8
+#EXTINF:-1,6 Days 2017
+http://213.136.86.46/movies/6 Days 2017 720p HDRip-x264-AC3 5.1-Zi$t-WWRG.mkv
+#EXTINF:-1,All Eyez on Me.2017
+http://213.136.86.46/movies/All Eyez on Me.2017.HDRip.XviD.AC3-EVO.avi
+#EXTINF:-1,Armed.Response.2017
+http://213.136.86.46/movies/Armed.Response.2017.720.WEB-DL.750MB.MkvCage.mkv
+#EXTINF:-1,Awakening.The.Zodiac
+http://213.136.86.46/movies/Awakening.The.Zodiac.2017.DVDRip.x264-RedBlade.mkv
+#EXTINF:-1,Bad Frank
+http://devilsoriginbuild.com/addon/movielist/Bad.Frank.2017.720p.WEB-DL.x264-@iMediaShare.mkv
+#EXTINF:-1,Beauty and the Beast
+http://213.136.86.46/movies/Beauty.And.The.Beast.2017.1080p.BluRay.x264-[YTS.AG].mp4
+#EXTINF:-1,Burning-Sands-2017
+http://51.255.88.38:8000/movie/sam/sam/4166.mp4
+#EXTINF:-1,Dead South
+http://213.136.86.46/movies/Dead.South.2016.HDRip.XviD.AC3-EVO.avi
+#EXTINF:-1,Darkness.Rising
+http://213.136.86.46/movies/Darkness.Rising.2017.720p.mkv
+#EXTINF:-1,Bushwick 2017
+http://213.136.86.46/movies/Bushwick.2017.720p.WEB-DL.750MB.MkvCage.mkv
+#EXTINF:-1,Amelia.2.0.2017
+http://213.136.86.46/movies/Amelia.2.0.2017.DVDRip.XviD-EVO.avi
+#EXTINF:-1,Everything.Everything.2017
+http://213.136.86.46/movies/ Everything.Everything.2017.720p.BRRip.x264-@iMediaShare.mkv
+#EXTINF:-1,Eloise.2017
+http://213.136.86.46/movies/Eloise.2017.720p.BluRay.x264-[YTS.AG].mp4
+#EXTINF:-1,Drone
+http://213.136.86.46/movies/Drone.2017.720p.BRRip.x264-@iMediaShare.mkv
+#EXTINF:-1,After.the.Wedding.2017
+http://213.136.86.46/movies/After.the.Wedding.2017.720p.WEB-DL.600MB.MkvCage.mkv
+#EXTINF:-1,Face 2 Face
+http://213.136.86.46/movies/Face 2 Face 2017.HDRip.XviD.AC3-EVO.avi
+#EXTINF:-1,Altitude.2017
+http://213.136.86.46/movies/Altitude.2017.720p.BRRip.mkv
+#EXTINF:-1,First Kill
+http://213.136.86.46/movies/First.Kill.2017.HDRip.XviD.AC3-EVO.avi
+#EXTINF:-1,Fifty.Shades.Darker-2017
+http://213.136.86.46/movies/Fifty.Shades.Darker.2017.720p.mkv
+#EXTINF:-1,Filth.City.2017
+http://213.136.86.46/movies/Filth.City.2017.BRRip.XviD.AC3-RARBG.avi
+#EXTINF:-1,Fate and The Furious
+http://213.136.86.46/movies/Fate%20Of%20The%20Furious%202017%20720p%20HD-TC.mkv
+#EXTINF:-1,Blind
+http://213.136.86.46/movies/Blind.2017.720p.WEB-DL.x264@iMediaShare.mkv
+#EXTINF:-1,Fun.Mom.Dinner.2017
+http://213.136.86.46/movies/Fun.Mom.Dinner.2017.720p.WEB-DL.650MB.MkvCage.mkv
+#EXTINF:-1,Gifted 2017
+http://213.136.86.46/movies/Gifted.2017.720p.BRRip.x264_@iMediaShare.mkv
+#EXTINF:-1,Ghost.In.The.Shell.2017.1080p
+http://213.136.86.46/movies/Ghost.In.The.Shell.2017.1080p.BluRay.x264-[YTS.AG].mp4
+#EXTINF:-1,Fist Fight
+http://213.136.86.46/movies/Fist.Fight.2017.720p.mkv
+#EXTINF:-1,Baywatch.2017
+http://213.136.86.46/movies/Baywatch.2017.HDRip.XviD.AC3-EVO.avi
+#EXTINF:-1,Goon Last of the Enforcers 2017
+http://213.136.86.46/movies/Goon Last of the Enforcers 2017.720p.HDRip.x264.AAC-N.O.K.mp4
+#EXTINF:-1,Going In Style
+http://213.136.86.46/movies/Going.In.Style.2017.720p.mkv
+#EXTINF:-1,Diary.of.a.Wimpy.Kid.The.Long.Haul
+http://213.136.86.46/movies/Diary.of.a.Wimpy.Kid.The.Long.Haul.2017.720p.BRRip.800MB.MkvCage.mkv
+#EXTINF:-1,Harry Potter and the Goblet of Fire
+http://213.136.86.46/movies/Harry Potter and the Goblet of Fire.mkv
+#EXTINF:-1,Hacksaw.Ridge
+http://213.136.86.46/movies/Hacksaw.Ridge.2016.720p.BRRip.x264.AAC-ETRG.mp4
+#EXTINF:-1,Dawn of the Planet of the Apes
+http://213.136.86.46/movies/Dawn.of.the.Planet.of.the.Apes.mkv
+#EXTINF:-1,Inconceivable.2017
+http://213.136.86.46/movies/Inconceivable.2017.HDRip.XviD.AC3-EVO.avi
+#EXTINF:-1,Harry Potter and the Order of the Phoenix
+http://213.136.86.46/movies/Harry Potter and the Order of the Phoenix.mkv
+#EXTINF:-1,Hickok
+http://devilsoriginbuild.com/addon/movielist/Hickok.2017.720p.WEB-DL.mkv
+#EXTINF:-1,Hidden.Figures
+http://devilsoriginbuild.com/addon/movielist/Hidden.Figures.2016.DVDSCR.mp4
+#EXTINF:-1,Harry Potter and the Sorcerer's Stone
+http://213.136.86.46/movies/Harry Potter and the Sorcerer's Stone.mkv
+#EXTINF:-1,Harry Potter and the Prisoner of Azkaban
+http://213.136.86.46/movies/Harry Potter and the Prisoner of Azkaban.mkv
+#EXTINF:-1,Harry Potter and the Half-Blood Prince
+http://213.136.86.46/movies/Harry Potter and the Half-Blood Prince.mkv
+#EXTINF:-1,Feed
+http://213.136.86.46/movies/Feed.2017.720p.WEB-DL.x264-@iMediaShare.mkv
+#EXTINF:-1,Kong_ Skull Island
+http://213.136.86.46/movies/Kong_ Skull Island (2017).mp4
+#EXTINF:-1,My.Cousin.Rachel.2017
+http://213.136.86.46/movies/My.Cousin.Rachel.2017.1080p.BluRay.x264-[YTS.AG].mp4
+#EXTINF:-1,Life 2017
+http://213.136.86.46/movies/Life.2017.720p.WEB-DL-@iMediaShare.mkv
+#EXTINF:-1,King Arthur Legend of the sword
+http://devilsoriginbuild.com//addon/movielist/King.Arthur.Legend.of.the.Sword.2017.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mp4
+#EXTINF:-1,Lemon 2017
+http://213.136.86.46/movies/Lemon 2017 720p WEBRip 600 mb - iExTV.mp4
+#EXTINF:-1,Let.Her.Out
+http://devilsoriginbuild.com//addon/movielist/Let.Her.Out.2016.720p.BRRip.x264-%40iMediaShare.mkv
+#EXTINF:-1,Never Back Down
+http://213.136.86.46/movies/Never.Back.Down.2008.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1,Locked Up 2017
+http://213.136.86.46/movies/Locked.Up.2017.HDRip.XViD-juggs[@DOWNLOAD24].avi
+#EXTINF:-1,Naked.2017
+http://213.136.86.46/movies/Naked.2017.720p.WEBRip.750MB.MkvCage.mkv
+#EXTINF:-1,Live by Night
+http://213.136.86.46/movies/Live.by.Night.2016.DVDSCR-@iMediaShare.mkv
+#EXTINF:-1,Kim Dotcom Caught In The Web 2017
+http://213.136.86.46/movies/Kim.Dotcom.Caught.In.the.Web.2017.720p.WEB-DL.850MB.MkvCage.mkv
+#EXTINF:-1,Megan Leavey 2017
+http://213.136.86.46/movies/Megan.Leavey.2017.720p.BluRay.x264-[YTS.AG].mp4
+#EXTINF:-1,Kill.Switch.2017
+http://213.136.86.46/movies/Kill.Switch.2017.720p.BRRip.800MB.MkvCage.mkv
+#EXTINF:-1,Kidnap
+http://devilsoriginbuild.com//addon/movielist/Kidnap.2017.720p.WEB-DL.750MB.MkvCage.mkv
+#EXTINF:-1,Guardians.of.the.Galaxy.Vol.2.2017.1080p
+http://213.136.86.46/movies/Guardians.of.the.Galaxy.Vol.2.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv
+#EXTINF:-1,Once Upon a time in Venice
+http://213.136.86.46/movies/Once Upon a Time in Venice (2017).mp4
+#EXTINF:-1,Origin Wars 2017
+http://213.136.86.46/movies/Origin.Wars.2017.720p.WEB-DL.x264-@iMediaShare.mkv
+#EXTINF:-1,Never Back Down No Surrender
+http://213.136.86.46/movies/Never.Back.Down.No.Surrender.2016.DVDRip-@TheMovieShare.mp4
+#EXTINF:-1,London Heist 2017
+http://213.136.86.46/movies/London.Heist.2017.720p.WEB-DL.x264-@iMediaShare.mkv
+#EXTINF:-1,Pilgrimage
+http://devilsoriginbuild.com//addon/movielist/Pilgrimage.2017.720.WEB-DL.x264-%40iMediaShare.mkv
+#EXTINF:-1,Rise of the Planet of the Apes
+http://devilsoriginbuild.com//addon/movielist/Rise.of.the.Planet.of.the.Apes.mkv
+#EXTINF:-1,Resident Evil Vendetta 2017
+http://213.136.86.46/movies/Resident.Evil.Vendetta.2017.720p.BRRip.x264-@iMediaShare.mkv
+#EXTINF:-1,Power.Rangers.2017.1080p
+http://213.136.86.46/movies/KidsMovies/Power.Rangers.2017.1080p.BluRay.x264-[YTS.AG].mp4
+#EXTINF:-1,Security
+http://213.136.86.46/movies/Security.2017.720p.WEB-DL.x264-@iMediaShare.mkv
+#EXTINF:-1,S.W.A.T Under Siege 2017
+http://213.136.86.46/movies/S.W.A.T under siege(2017)BluRay720px264@KT.mp4
+#EXTINF:-1,Patriots Day
+http://213.136.86.46/movies/Patriots Day (2016) BluRay 720p 1GB x264 Goon.to.mkv
+#EXTINF:-1,Logan
+http://213.136.86.46/movies/Logan.2017.720p.BRRip.x264-@iMediaShare.mkv
+#EXTINF:-1,The Sector
+http://213.136.86.46/movies/The.Sector.2016.720p.WEBRip-@iMediaShare.mp4
+#EXTINF:-1,The.Circle
+http://devilsoriginbuild.com//addon/movielist/The.Circle.2017.HDRip.x264-%40iMediaShare.mkv
+#EXTINF:-1,T2 Trainspotting 2017
+http://213.136.86.46/movies/T2.Trainspotting.2017.HDRip.XviD.AC3-EVO.avi
+#EXTINF:-1,The Wall
+http://213.136.86.46/movies/ The.Wall.2017.720p.WEB-DL.x264-@iMediaShare.mkv
+#EXTINF:-1,The.Fate.of.the.Furious
+http://devilsoriginbuild.com//addon/movielist/The.Fate.of.the.Furious.2017.720p.BRRip.x264%20%40iMediaShare.mkv
+#EXTINF:-1,The.Recall.2017
+http://213.136.86.46/movies/The.Recall.2017.720p.BluRay.x264-[YTS.AG].mp4
+#EXTINF:-1,The Zookeepers Wife
+http://51.255.88.38:8000/movie/sam/sam/4917.mp4
+#EXTINF:-1,The Dinner
+http://213.136.86.46/movies/The.Dinner.2017.720p.BRRip.x264-@iMediaShare.mkv
+#EXTINF:-1,The.Sense.Of.An.Ending.2017
+http://213.136.86.46/movies/The.Sense.Of.An.Ending.2017.720p.BRRip.950MB.MkvCage.mkv
+#EXTINF:-1,The Hitmans Bodyguard
+http://213.136.86.46/movies/The.Hitmans.Bodyguard.2017.720p.WEB-DL.x264-%40iMediaShare.mkv
+#EXTINF:-1,The Assignement
+http://213.136.86.46/movies/The.Assignment.2016.720p.BRRip.850MB.MkvCage.mkv
+#EXTINF:-1,The Saint
+http://213.136.86.46/movies/The.Saint.2017.720p.WEB-DL.x264-@iMediaShare.mkv
+#EXTINF:-1,Sleepless
+http://213.136.86.46/movies/Sleepless (2017) BluRay 720p.mkv
+#EXTINF:-1,The Gaelic King
+http://213.136.86.46/movies/The Gaelic King.2017.HDRip.XviD.AC3-EVO.avi
+#EXTINF:-1,The Hunters Prayer 2017
+http://213.136.86.46/movies/The.Hunters.Prayer.2017.720p.BRRip.x264-@iMediaShare.mkv
+#EXTINF:-1,The Lovers
+http://213.136.86.46/movies/The.Lovers.2017.720p.BRRip.x264-@iMediaShare_0.mkv
+#EXTINF:-1,Shot Caller
+http://213.136.86.46/movies/Shot.Caller.2017.720p.BRRip.x264-@iMediaShare.mkv
+#EXTINF:-1,Legion.of.Brothers
+http://devilsoriginbuild.com//addon/movielist/Legion.of.Brothers.2017.720p.WEB-DL.x264-%40iMediaShare.mkv
+#EXTINF:-1,Unlocked 2017
+http://213.136.86.46/movies/Unlocked.2017.BRRip.XviD.AC3-EVO.avi
+#EXTINF:-1,Vengeance.A.Love.Story
+http://devilsoriginbuild.com//addon/movielist/Vengeance.A.Love.Story.2017.720p.BRRip-%40iMediaShare.mkv
+#EXTINF:-1,Vigilante Diaries
+http://213.136.86.46/movies/Vigilante.Diaries.2016.BRRip.720p.mkv
+#EXTINF:-1,To The Bone
+http://213.136.86.46/movies/To.the.Bone.2017.720p.WEBRip.x264-@iMediaShare.mkv
+#EXTINF:-1,What.Happened.to.Monday.2017
+http://213.136.86.46/movies/What.Happened.to.Monday.2017.HDRip.XviD.AC3-EVO.avi
+#EXTINF:-1,Transformers The Last Knight
+http://213.136.86.46/movies/Transformers_Last_Knight.mkv
+#EXTINF:-1,Unforgettable
+http://213.136.86.46/movies/Unforgettable.2017.720p.BRRip.x264-@iMediaShare.mkv
+#EXTINF:-1,The.Wake.2017
+http://213.136.86.46/movies/The.Wake.2017.720p.HDRip.x264.AAC.-.Hon3y[@DOWNLOAD24].mkv
+#EXTINF:-1,Harry Potter and the Chamber of Secrets
+http://213.136.86.46/movies/Harry Potter and the Chamber of Secrets.mkv
+#EXTINF:-1,rough.night.2017
+http://213.136.86.46/movies/rough.night.2017.720p.bluray.hevc.x265.rmteam.mkv
+#EXTINF:-1,Wonder Woman
+http://213.136.86.46/movies/Wonder.Woman.2017.720p.HC.HDRip-@iMediaShare.mkv
+#EXTINF:-1,Harry Potter and the Deathly Hallows Part 2
+http://213.136.86.46/movies/Harry Potter and the Deathly Hallows Part 2.mkv
+#EXTINF:-1,xXx: Return of Xander Cage
+http://213.136.86.46/movies/xXxReturnofXanderCage.mp4
+#EXTINF:-1,Harry Potter and the Deathly Hallows Part 1
+http://213.136.86.46/movies/Harry Potter and the Deathly Hallows Part 1.mkv
+#EXTINF:-1,Shrek
+http://213.136.86.46/movies/KidsMovies/Shrek.2001.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1,Alvin and the chipmonks the road chip
+http://213.136.86.46/movies/KidsMovies/Alvin.And.The.Chipmunks.The.Road.Chip.PROPER-@iMediaShare.mkv
+#EXTINF:-1,Cars 3
+http://213.136.86.46/movies/Cars.3.2017.mkv
+#EXTINF:-1,Cloudy With a Chance Of Meatballs
+http://213.136.86.46/movies/KidsMovies/Cloudy.with.a.Chance.of.Meatballs.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1,Cloudy With a Chance Of Meatballs 2
+http://213.136.86.46/movies/KidsMovies/Cloudy.with.a.Chance.of.Meatballs.2.2013.MP4
+#EXTINF:-1,Curious George
+http://213.136.86.46/movies/KidsMovies/Curious.George.2006.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1,Curious George 3
+http://213.136.86.46/movies/KidsMovies/Curious_George_3_Back_to_the_Jungle.mkv
+#EXTINF:-1,Curious George Swing Into Spring
+http://213.136.86.46/movies/KidsMovies/smokey-curiousgsis.avi
+#EXTINF:-1,Curiuos George 2
+http://213.136.86.46/movies/KidsMovies/CURIOUS GEORGE 2.avi
+#EXTINF:-1,Ice Age Dawn of the Dinosaurs.2009.720p
+http://213.136.86.46/movies/KidsMovies/Ice Age Dawn of the Dinosaurs.2009.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1,Ice Age The Meltdown.2006.720p
+http://213.136.86.46/movies/KidsMovies/Ice Age The Meltdown.2006.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1,Ice Age.2002.720p
+http://213.136.86.46/movies/KidsMovies/Ice Age.2002.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1,Ice.Age.Collision.Course.2016.720p
+http://213.136.86.46/movies/KidsMovies/Ice.Age.Collision.Course.2016.720p.HDRiP.850MB.ShAaNiG.mkv
+#EXTINF:-1,Ice.Age.Continental.Drift.2012.1080p
+http://213.136.86.46/movies/KidsMovies/Ice.Age.Continental.Drift.2012.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1,Inside Out
+http://213.136.86.46/movies/KidsMovies/Inside Out (2015).mp4
+#EXTINF:-1,Kung Fu Panda
+http://213.136.86.46/movies/KidsMovies/Kung.Fu.Panda.2008.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1,Kung Fu Panda 2
+http://213.136.86.46/movies/KidsMovies/Kung Fu Panda 2.x264.BrRip.YIFY.mp4
+#EXTINF:-1,Kung Fu Panda 3
+http://213.136.86.46/movies/KidsMovies/Kung Fu Panda 3 (2016) 720p BluRay.mp4
+#EXTINF:-1,Lego Batman Movie
+http://213.136.86.46/movies/KidsMovies/The.Lego.Batman.The.Movie.2017.720p.WEB-DL.800MB.MkvCage.mkv
+#EXTINF:-1,Max
+http://213.136.86.46/movies/KidsMovies/Max.2015.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1,Max 2 White House Hero
+http://213.136.86.46/movies/KidsMovies/Max.2.White.House.Hero.2017.BRRip.XviD.AC3-EVO.avi
+#EXTINF:-1,Minions
+http://213.136.86.46/movies/KidsMovies/Minions.2015.720p.BRRip.850MB.MkvCage.mkv
+#EXTINF:-1,Moana
+http://213.136.86.46/movies/KidsMovies/Moana.2016.720p.BRRip-@iMediaShare.mkv
+#EXTINF:-1,Monsters.Inc.2001
+http://213.136.86.46/movies/KidsMovies/Monsters.Inc.2001.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1,Petes Dragon
+http://213.136.86.46/movies/KidsMovies/Petes.Dragon.2016.720p.BRRip-@iMediaShare.mkv
+#EXTINF:-1,Ratatouille.2007
+http://213.136.86.46/movies/KidsMovies/@Dubbedmovies.Ratatouille.2007.720p.BDRip.Multi.Audio.mkv
+#EXTINF:-1,Shrek 2
+http://213.136.86.46/movies/KidsMovies/Shrek.2.2004.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1,Shrek 4
+http://213.136.86.46/movies/KidsMovies/Shrek.4.2010.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1,Shrek the third
+http://213.136.86.46/movies/KidsMovies/Shrek.The.Third.2007.720p.HDDVD.x264.YIFY.mp4
+#EXTINF:-1,Smurfs the Lost Village
+http://213.136.86.46/movies/KidsMovies/Smurfs.The.Lost.Village.2017.720p.WEB-DL.700MB.MkvCage.mkv
+#EXTINF:-1,Storks
+http://213.136.86.46/movies/KidsMovies/Storks.2016.720p.BluRay.x264-[YTS.AG].mp4
+#EXTINF:-1,Tangled Before Ever After
+http://213.136.86.46/movies/KidsMovies/Tangled.Before.Ever.After.2017.HDRip-@TLMovies.avi
+#EXTINF:-1,The Angry Birds Movie
+http://213.136.86.46/movies/KidsMovies/The Angry Birds Movie (2016) 720p BluRay.mkv
+#EXTINF:-1,The BFG
+http://213.136.86.46/movies/KidsMovies/The.BFG.2016.720p.WEB-DL-@iMediaShare.mkv
+#EXTINF:-1,The Boss Baby
+http://213.136.86.46/movies/KidsMovies/The.Boss.Baby.2017.720p.BRRip.x264-@iMediaShare.mkv
+#EXTINF:-1,The Jungle Book
+http://213.136.86.46/movies/KidsMovies/Jungle Book (2016) 720p BluRay.mkv
+#EXTINF:-1,The Jungle Book 2
+http://213.136.86.46/movies/KidsMovies/The.Jungle.Book.2.2003.720p.BluRay-@TheMovieShare.mp4
+#EXTINF:-1,The Secret Life Of Pets
+The.Secret.Life.Of.Pets.2016.720p.HDRip-@iMediaShare.mkv
+#EXTINF:-1,Trolls
+http://213.136.86.46/movies/KidsMovies/Trolls.2016.720p.WEB-DL-@iMediaShare.mkv
+#EXTINF:-1,Zootopia
+http://213.136.86.46/movies/KidsMovies/Zootopia.2016.720p.BRRip-@TheMovieShare.mp4
+#EXTINF:-1,Alvin and the Chipmunks 2007
+http://213.136.86.46/movies/KidsMovies/Alvin and the Chipmunks[2007]DvDrip[Eng]-FXG.avi
+#EXTINF:-1,Alvin.and.the.Chipmunks.The.Squeakquel.2009.1080p
+http://213.136.86.46/movies/KidsMovies/Alvin.and.the.Chipmunks.The.Squeakquel.2009.1080p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1,WALL-E
+http://213.136.86.46/movies/KidsMovies/WALL-E.2008.1080p.BrRip.x264.YIFY.mp4
+#EXTINF:-1,Toy.Story
+http://213.136.86.46/movies/KidsMovies/Toy.Story.1995.1080p.BRrip.x264.YIFY.mp4
+#EXTINF:-1,Toy.Story.2
+http://213.136.86.46/movies/KidsMovies/Toy.Story.2.1999.1080p.BRrip.x264.YIFY.mp4
+#EXTINF:-1,Toy.Story.3
+http://213.136.86.46/movies/KidsMovies/Toy.Story.3.2010.1080p.BRrip.x264.YIFY.mp4
+#EXTINF:-1,Finding Dory
+http://213.136.86.46/movies/KidsMovies/Finding Dory 2016 1080p BluRay x264 DTS-JYK.mkv
+#EXTINF:-1,ET The Extra-Terrestrial
+http://213.136.86.46/movies/KidsMovies/ET The Extra-Terrestrial (1982) 720p.mp4
+#EXTINF:-1,Coraline
+http://213.136.86.46/movies/KidsMovies/Coraline.2009.BluRay.720p.x264.YIFY.mp4
+#EXTINF:-1,Big.Hero.6
+http://213.136.86.46/movies/KidsMovies/Big.Hero.6.2014.720p.BluRay.x264-FOXM.mp4
+#EXTINF:-1,A Bugs Life
+http://213.136.86.46/movies/KidsMovies/A Bugs Life.mp4
+#EXTINF:-1,Captain Underpants the first epic movie 2017
+http://213.136.86.46/movies/KidsMovies/Captain.Underpants.The.First.Epic.Movie.2017.720p.BRRip.800MB.MkvCage.mkv
+#EXTINF:-1,Madagascar
+http://213.136.86.46/movies/KidsMovies/Madagascar (2005).mp4
+#EXTINF:-1,Madagascar Escape 2 Africa
+http://213.136.86.46/movies/KidsMovies/Madagascar Escape 2 Africa (2008).mp4
+#EXTINF:-1,Madagascar 3 Europe's Most Wanted
+http://213.136.86.46/movies/KidsMovies/Madagascar 3 Europe's Most Wanted (2012).mp4
+#EXTINF:-1,Ozzy
+http://213.136.86.46/movies/KidsMovies/Ozzy (2016).mkv
+#EXTINF:-1,The Lion Guard Return of the Roar
+http://213.136.86.46/movies/KidsMovies/The Lion Guard Return of the Roar (2015).mp4
+#EXTINF:-1,The Peanuts Movie
+http://213.136.86.46/movies/KidsMovies/The Peanuts Movie (2015).mp4
+#EXTINF:-1,Wreck-It Ralph
+http://213.136.86.46/movies/KidsMovies/Wreck-It Ralph (2012).mp4
+#EXTINF:-1,Up
+http://213.136.86.46/movies/KidsMovies/Up (2009).mp4
+#EXTINF:-1,The Nut Job
+http://213.136.86.46/movies/KidsMovies/The Nut Job (2014).mp4
+#EXTINF:-1,RAY DONOVAN S01E01
+http://213.136.86.46/onDemand/TVSHOWS/RAY/RayDonovanS01E01.mkv
+#EXTINF:-1,RAY DONOVAN S01E02
+http://213.136.86.46/onDemand/TVSHOWS/RAY/RayDonovanS01E02.mkv
+#EXTINF:-1,RAY DONOVAN S01E03
+http://213.136.86.46/onDemand/TVSHOWS/RAY/RayDonovanS01E03.mkv
+#EXTINF:-1,RAY DONOVAN S01E04
+http://213.136.86.46/onDemand/TVSHOWS/RAY/RayDonovanS01E04.mkv
+#EXTINF:-1,RAY DONOVAN S01E05
+http://213.136.86.46/onDemand/TVSHOWS/RAY/RayDonovanS01E05.mkv
+#EXTINF:-1,RAY DONOVAN S01E06
+http://213.136.86.46/onDemand/TVSHOWS/RAY/RayDonovanS01E06.mkv
+#EXTINF:-1,RAY DONOVAN S01E07
+http://213.136.86.46/onDemand/TVSHOWS/RAY/RayDonovanS01E07.mkv
+#EXTINF:-1,RAY DONOVAN S01E08
+http://213.136.86.46/onDemand/TVSHOWS/RAY/RayDonovanS01E08.mkv
+#EXTINF:-1,RAY DONOVAN S01E09
+http://213.136.86.46/onDemand/TVSHOWS/RAY/RayDonovanS01E09.mkv
+#EXTINF:-1,RAY DONOVAN S01E10
+http://213.136.86.46/onDemand/TVSHOWS/RAY/RayDonovanS01E10.mkv
+#EXTINF:-1,RAY DONOVAN S01E11
+http://213.136.86.46/onDemand/TVSHOWS/RAY/RayDonovanS01E11.mkv
+#EXTINF:-1,RAY DONOVAN S01E12
+http://213.136.86.46/onDemand/TVSHOWS/RAY/RayDonovanS01E12.mkv
+#EXTINF:-1,Police Interceptors S11E01
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 11/Police Interceptors S11E01.mkv
+#EXTINF:-1,Police Interceptors S11E02
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 11/Police Interceptors S11E02.mkv
+#EXTINF:-1,Police Interceptors S11E03
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 11/Police Interceptors S11E03.mkv
+#EXTINF:-1,Police Interceptors S11E04
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 11/Police Interceptors S11E04.mkv
+#EXTINF:-1,Police Interceptors S11E05
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 11/Police Interceptors S11E05.mkv
+#EXTINF:-1,Police Interceptors S11E06
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 11/Police Interceptors S11E06.mkv
+#EXTINF:-1,Police Interceptors S11E07
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 11/Police Interceptors S11E07.mkv
+#EXTINF:-1,Police Interceptors S11E08
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 11/Police Interceptors S11E08.mkv
+#EXTINF:-1,Police Interceptors S11E09
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 11/Police Interceptors S11E09.mkv
+#EXTINF:-1,Police Interceptors S11E10
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 11/Police Interceptors S11E10.mp4
+#EXTINF:-1,Police Interceptors S11E11
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 11/Police Interceptors S11E11.mp4
+#EXTINF:-1,Police Interceptors S11E12
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 11/Police Interceptors S11E12.mkv
+#EXTINF:-1,Police Interceptors S11E13
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 11/Police Interceptors S11E13.mp4
+#EXTINF:-1,Police Interceptors S12E06
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 12/Police Interceptors S12E06.mkv
+#EXTINF:-1,Police Interceptors S12E07
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 12/Police Interceptors S12E07.mkv
+#EXTINF:-1,Police Interceptors S12E08
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 12/Police Interceptors S12E08.avi
+#EXTINF:-1,Police Interceptors S12E09
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 12/Police Interceptors S12E09.mp4
+#EXTINF:-1,Police Interceptors S12E10
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 12/Police Interceptors S12E10.mkv
+#EXTINF:-1,Police Interceptors S12E11
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 12/Police Interceptors S12E11.mkv
+#EXTINF:-1,Police Interceptors S12E12
+http://213.136.86.46/onDemand/TVSHOWS/POLICEINTERCEPTORS/Season 12/Police Interceptors S12E12.mkv
+#EXTINF:-1,GAME OF THRONES S01E01
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S1/Game.of.Thrones.S01E01.mkv
+#EXTINF:-1,GAME OF THRONES S01E02
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S1/Game.of.Thrones.S01E02.mkv
+#EXTINF:-1,GAME OF THRONES S01E03
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S1/Game.of.Thrones.S01E03.mkv
+#EXTINF:-1,GAME OF THRONES S01E04
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S1/Game.of.Thrones.S01E04.mkv
+#EXTINF:-1,GAME OF THRONES S01E05
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S1/Game.of.Thrones.S01E05.mkv
+#EXTINF:-1,GAME OF THRONES S01E06
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S1/Game.of.Thrones.S01E06.mkv
+#EXTINF:-1,GAME OF THRONES S01E08
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S1/Game.of.Thrones.S01E08.mkv
+#EXTINF:-1,GAME OF THRONES S01E09
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S1/Game.of.Thrones.S01E09.mkv
+#EXTINF:-1,GAME OF THRONES S01E10
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S1/Game.of.Thrones.S01E10.mkv
+#EXTINF:-1,GAME OF THRONES S07E05
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S7/Game.of.Thrones.S07E05.mkv
+#EXTINF:-1,GAME OF THRONES S02E01
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S2/Game.of.Thrones.S02E01.mkv
+#EXTINF:-1,GAME OF THRONES S02E02
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S2/Game.of.Thrones.S02E02.mkv
+#EXTINF:-1,GAME OF THRONES S02E03
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S2/Game.of.Thrones.S02E03.mkv
+#EXTINF:-1,GAME OF THRONES S02E04
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S2/Game.of.Thrones.S02E04.mkv
+#EXTINF:-1,GAME OF THRONES S02E05
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S2/Game.of.Thrones.S02E05.mkv
+#EXTINF:-1,GAME OF THRONES S02E06
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S2/Game.of.Thrones.S02E06.mkv
+#EXTINF:-1,GAME OF THRONES S02E07
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S2/Game.of.Thrones.S02E07.mkv
+#EXTINF:-1,GAME OF THRONES S02E08
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S2/Game.of.Thrones.S02E08.mkv
+#EXTINF:-1,GAME OF THRONES S02E09
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S2/Game.of.Thrones.S02E09.mkv
+#EXTINF:-1,GAME OF THRONES S02E10
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S2/Game.of.Thrones.S02E10.mkv
+#EXTINF:-1,GAME OF THRONES S03E01
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S3/Game.of.Thrones.S03E01.mp4
+#EXTINF:-1,GAME OF THRONES S03E02
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S3/Game.of.Thrones.S03E02.mp4
+#EXTINF:-1,GAME OF THRONES S03E03
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S3/Game.of.Thrones.S03E03.mp4
+#EXTINF:-1,GAME OF THRONES S03E04
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S3/Game.of.Thrones.S03E04.mp4
+#EXTINF:-1,GAME OF THRONES S03E05
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S3/Game.of.Thrones.S03E05.mp4
+#EXTINF:-1,GAME OF THRONES S03E06
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S3/Game.of.Thrones.S03E06.mp4
+#EXTINF:-1,GAME OF THRONES S03E07
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S3/Game.of.Thrones.S03E07.mp4
+#EXTINF:-1,GAME OF THRONES S03E08
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S3/Game.of.Thrones.S03E08.mp4
+#EXTINF:-1,GAME OF THRONES S03E09
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S3/Game.of.Thrones.S03E09.mp4
+#EXTINF:-1,GAME OF THRONES S03E10
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S3/Game.of.Thrones.S03E10.mp4
+#EXTINF:-1,GAME OF THRONES S04E01
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S4/Game.of.Thrones.S04E01.mkv
+#EXTINF:-1,GAME OF THRONES S04E02
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S4/Game.of.Thrones.S04E02.mkv
+#EXTINF:-1,GAME OF THRONES S04E03
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S4/Game.of.Thrones.S04E03.mkv
+#EXTINF:-1,GAME OF THRONES S04E04
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S4/Game.of.Thrones.S04E04.mkv
+#EXTINF:-1,GAME OF THRONES S04E05
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S4/Game.of.Thrones.S04E05.mkv
+#EXTINF:-1,GAME OF THRONES S04E06
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S4/Game.of.Thrones.S04E06.mkv
+#EXTINF:-1,GAME OF THRONES S04E07
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S4/Game.of.Thrones.S04E07.mkv
+#EXTINF:-1,GAME OF THRONES S04E08
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S4/Game.of.Thrones.S04E08.mkv
+#EXTINF:-1,GAME OF THRONES S04E09
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S4/Game.of.Thrones.S04E09.mkv
+#EXTINF:-1,GAME OF THRONES S04E10
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S4/Game.of.Thrones.S04E10.mkv
+#EXTINF:-1,GAME OF THRONES S05E01
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S5/Game.of.Thrones.S05E01.mkv
+#EXTINF:-1,GAME OF THRONES S05E02
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S5/Game.of.Thrones.S05E02.mkv
+#EXTINF:-1,GAME OF THRONES S05E03
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S5/Game.of.Thrones.S05E03.mkv
+#EXTINF:-1,GAME OF THRONES S05E04
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S5/Game.of.Thrones.S05E04.mkv
+#EXTINF:-1,GAME OF THRONES S05E05
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S5/Game.of.Thrones.S05E05.mkv
+#EXTINF:-1,GAME OF THRONES S05E06
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S5/Game.of.Thrones.S05E06.mkv
+#EXTINF:-1,GAME OF THRONES S05E07
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S5/Game.of.Thrones.S05E07.mkv
+#EXTINF:-1,GAME OF THRONES S05E08
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S5/Game.of.Thrones.S05E08.mkv
+#EXTINF:-1,GAME OF THRONES S05E09
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S5/Game.of.Thrones.S05E09.mkv
+#EXTINF:-1,GAME OF THRONES S05E10
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S5/Game.of.Thrones.S05E10.mkv
+#EXTINF:-1,GAME OF THRONES S06E02
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S6/Game.of.Thrones.S06E02.mkv
+#EXTINF:-1,GAME OF THRONES S06E03
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S6/Game.of.Thrones.S06E03.mkv
+#EXTINF:-1,GAME OF THRONES S06E04
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S6/Game.of.Thrones.S06E04.mkv
+#EXTINF:-1,GAME OF THRONES S06E05
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S6/Game.of.Thrones.S06E05.mkv
+#EXTINF:-1,GAME OF THRONES S06E06
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S6/Game.of.Thrones.S06E06.mkv
+#EXTINF:-1,GAME OF THRONES S06E07
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S6/Game.of.Thrones.S06E07.mkv
+#EXTINF:-1,GAME OF THRONES S06E08
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S6/Game.of.Thrones.S06E08.mkv
+#EXTINF:-1,GAME OF THRONES S06E09
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S6/Game.of.Thrones.S06E09.mkv
+#EXTINF:-1,GAME OF THRONES S06E10
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S6/Game.of.Thrones.S06E10.mkv
+#EXTINF:-1,GAME OF THRONES S07E01
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S7/Game.of.Thrones.S07E01.avi
+#EXTINF:-1,GAME OF THRONES S07E02
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S7/Game.of.Thrones.S07E02.mkv
+#EXTINF:-1,GAME OF THRONES S07E03
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S7/Game.of.Thrones.S07E03.mkv
+#EXTINF:-1,GAME OF THRONES S07E04
+http://213.136.86.46/onDemand/TVSHOWS/GOT/S7/Game.of.Thrones.S07E04.mkv
+#EXTINF:-1,GRAND TOUR S01E01
+http://213.136.86.46/onDemand/TVSHOWS/GRANDTOUR/S1/The.Grand.Tour.S01E01.mkv
+#EXTINF:-1,GRAND TOUR S01E02
+http://213.136.86.46/onDemand/TVSHOWS/GRANDTOUR/S1/The.Grand.Tour.S01E02.mkv
+#EXTINF:-1,GRAND TOUR S01E03
+http://213.136.86.46/onDemand/TVSHOWS/GRANDTOUR/S1/The.Grand.Tour.S01E03.mkv
+#EXTINF:-1,GRAND TOUR S01E04
+http://213.136.86.46/onDemand/TVSHOWS/GRANDTOUR/S1/The.Grand.Tour.S01E04.mkv
+#EXTINF:-1,GRAND TOUR S01E05
+http://213.136.86.46/onDemand/TVSHOWS/GRANDTOUR/S1/The.Grand.Tour.S01E05.mkv
+#EXTINF:-1,GRAND TOUR S01E06
+http://213.136.86.46/onDemand/TVSHOWS/GRANDTOUR/S1/The.Grand.Tour.S01E06.mkv
+#EXTINF:-1,GRAND TOUR S01E07
+http://213.136.86.46/onDemand/TVSHOWS/GRANDTOUR/S1/The.Grand.Tour.S01E07.mkv
+#EXTINF:-1,GRAND TOUR S01E08
+http://213.136.86.46/onDemand/TVSHOWS/GRANDTOUR/S1/The.Grand.Tour.S01E08.mkv
+#EXTINF:-1,GRAND TOUR S01E09
+http://213.136.86.46/onDemand/TVSHOWS/GRANDTOUR/S1/The.Grand.Tour.S01E09.mkv
+#EXTINF:-1,GRAND TOUR S01E10
+http://213.136.86.46/onDemand/TVSHOWS/GRANDTOUR/S1/The.Grand.Tour.S01E10.mkv
+#EXTINF:-1,GRAND TOUR S01E11
+http://213.136.86.46/onDemand/TVSHOWS/GRANDTOUR/S1/The.Grand.Tour.S01E11.mkv
+#EXTINF:-1,GRAND TOUR S01E12
+http://213.136.86.46/onDemand/TVSHOWS/GRANDTOUR/S1/The.Grand.Tour.S01E12.mkv
+#EXTINF:-1,GRAND TOUR S01E13
+http://213.136.86.46/onDemand/TVSHOWS/GRANDTOUR/S1/The.Grand.Tour.S01E13.mkv
+#EXTINF:-1,OZARK S01E01
+http://213.136.86.46/onDemand/TVSHOWS/OZARK/S1/Ozark.S01E01.Sugarwood.mkv
+#EXTINF:-1,OZARK S01E02
+http://213.136.86.46/onDemand/TVSHOWS/OZARK/S1/Ozark.S01E02.Blue.Cat.mkv
+#EXTINF:-1,OZARK S01E03
+http://213.136.86.46/onDemand/TVSHOWS/OZARK/S1/Ozark.S01E03.My.Dripping.Sleep.mkv
+#EXTINF:-1,OZARK S01E04
+http://213.136.86.46/onDemand/TVSHOWS/OZARK/S1/Ozark.S01E04.Tonight.We.Improvise.mkv
+#EXTINF:-1,OZARK S01E05
+http://213.136.86.46/onDemand/TVSHOWS/OZARK/S1/Ozark.S01E05.Ruling.Days.mkv
+#EXTINF:-1,OZARK S01E06
+http://213.136.86.46/onDemand/TVSHOWS/OZARK/S1/Ozark.S01E06.Book.Of.Ruth.mkv
+#EXTINF:-1,OZARK S01E07
+http://213.136.86.46/onDemand/TVSHOWS/OZARK/S1/Ozark.S01E07.Nest.Box.mkv
+#EXTINF:-1,OZARK S01E08
+http://213.136.86.46/onDemand/TVSHOWS/OZARK/S1/Ozark.S01E08.Kaleidoscope.mkv
+#EXTINF:-1,OZARK S01E09
+http://213.136.86.46/onDemand/TVSHOWS/OZARK/S1/Ozark.S01E09.Coffee.Black.mkv
+#EXTINF:-1,OZARK S01E10
+http://213.136.86.46/onDemand/TVSHOWS/OZARK/S1/Ozark.S01E10.The.Toll.mkv
+#EXTINF:-1,PRISON BREAK S05E01
+http://213.136.86.46/onDemand/TVSHOWS/PRISONBREAK/S5/PrisonBreakS05E01.mkv
+#EXTINF:-1,PRISON BREAK S05E02
+http://213.136.86.46/onDemand/TVSHOWS/PRISONBREAK/S5/PrisonBreakS05E02.mkv
+#EXTINF:-1,PRISON BREAK S05E03
+http://213.136.86.46/onDemand/TVSHOWS/PRISONBREAK/S5/PrisonBreakS05E03.mkv
+#EXTINF:-1,PRISON BREAK S05E04
+http://213.136.86.46/onDemand/TVSHOWS/PRISONBREAK/S5/PrisonBreakS05E04.mkv
+#EXTINF:-1,PRISON BREAK S05E05
+http://213.136.86.46/onDemand/TVSHOWS/PRISONBREAK/S5/PrisonBreakS05E05.mkv
+#EXTINF:-1,PRISON BREAK S05E06
+http://213.136.86.46/onDemand/TVSHOWS/PRISONBREAK/S5/PrisonBreakS05E06.mkv
+#EXTINF:-1,PRISON BREAK S05E07
+http://213.136.86.46/onDemand/TVSHOWS/PRISONBREAK/S5/PrisonBreakS05E07.mkv
+#EXTINF:-1,PRISON BREAK S05E08
+http://213.136.86.46/onDemand/TVSHOWS/PRISONBREAK/S5/PrisonBreakS05E08.mkv
+#EXTINF:-1,PRISON BREAK S05E09
+http://213.136.86.46/onDemand/TVSHOWS/PRISONBREAK/S5/PrisonBreakS05E09.mkv
+#EXTINF:-1,AMERICAN GODS S01E01
+http://213.136.86.46/onDemand/TVSHOWS/AMERICANGODS/S1/American.gods.s01e01.mkv
+#EXTINF:-1,AMERICAN GODS S01E02
+http://213.136.86.46/onDemand/TVSHOWS/AMERICANGODS/S1/American.gods.s01e02.mkv
+#EXTINF:-1,AMERICAN GODS S01E03
+http://213.136.86.46/onDemand/TVSHOWS/AMERICANGODS/S1/American.gods.s01e03.mkv
+#EXTINF:-1,AMERICAN GODS S01E04
+http://213.136.86.46/onDemand/TVSHOWS/AMERICANGODS/S1/American.gods.s01e04.mkv
+#EXTINF:-1,AMERICAN GODS S01E05
+http://213.136.86.46/onDemand/TVSHOWS/AMERICANGODS/S1/American.gods.s01e05.mkv
+#EXTINF:-1,AMERICAN GODS S01E06
+http://213.136.86.46/onDemand/TVSHOWS/AMERICANGODS/S1/American.gods.s01e06.mkv
+#EXTINF:-1,AMERICAN GODS S01E07
+http://213.136.86.46/onDemand/TVSHOWS/AMERICANGODS/S1/American.gods.s01e07.mkv
+#EXTINF:-1,AMERICAN GODS S01E08
+http://213.136.86.46/onDemand/TVSHOWS/AMERICANGODS/S1/American.gods.s01e08.mkv
+#EXTINF:-1,Suits S07E01
+213.136.86.46/onDemand/TVSHOWS/SUITS/S7/Suits.S07E01.mkv
+#EXTINF:-1,Suits S07E02
+213.136.86.46/onDemand/TVSHOWS/SUITS/S7/Suits.S07E02.mkv
+#EXTINF:-1,Suits S07 E03
+http://213.136.86.46/onDemand/TVSHOWS/SUITS/S7/Suits.S07E03.mp4
+#EXTINF:-1,Suits S07E04
+http://213.136.86.46/onDemand/TVSHOWS/SUITS/S7/Suits.S07E04.mkv
+#EXTINF:-1,Peppa Pig Learn the Alphabet
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s00e02.Learn.the.Alphabet.SD.TV.avi
+#EXTINF:-1,Peppa Pig S01E01 Muddy Puddles
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e01.Muddy.Puddles.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E02 Mr Dinosaur is Lost
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e02.Mr.Dinosaur.is.Lost.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E03 Best Friend
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e03.Best.Friend.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E04 Polly Parrot
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e04.Polly.Parrot.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E05 Hide and Seek
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e05.Hide.and.Seek.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E06 The Playgroup
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e06.The.Playgroup.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E07 Mummy Pig at Work
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e07.Mummy.Pig.at.Work.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E08 Camping
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e08.Camping.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E09 Gardening
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e09.Gardening.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E10 Bicycles
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e10.Bicycles.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E11 The New Car
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e11.The.New.Car.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E12 Snow
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e12.Snow.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E13 Flying a Kite
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e13.Flying.a.Kite.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E14 My Cousin Chloe
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e14.My.Cousin.Chlo%C3%A9.SD.TV.avi
+#EXTINF:-1,Peppa Pig S01E15 Daddy Loses His Glasses
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e15.Daddy.Loses.His.Glasses.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E16 Hiccups
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e16.Hiccups.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E17 Picnic
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e17.Picnic.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E18 Mummy Pig's Birthday
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e18.Mummy.Pig%27s.Birthday.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E19 Dressing Up
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e19.Dressing.Up.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E20 The School Fete
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e20.The.School.Fete.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E22 Babysitting
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e22.Babysitting.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E22 Musical Instruments
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e21.Musical.Instruments.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E24 Ballet Lesson
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e24.Ballet.Lesson.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E25 The Tooth Fairy
+http://213.136.86.46/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e25.The.Tooth.Fairy.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E26 Treasure Hunt
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e26.Treasure.Hunt.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S01E27 Not Very Well
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s01e27.Not.Very.Well.SD.DVD.avi
+#EXTINF:-1,Peppa Pig S02E01 Bubble
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s02e01.Bubbles.SD.TV.avi
+#EXTINF:-1,Peppa Pig S02E02 Emily Elephant
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s02e02.Emily.Elephant.SD.TV.avi
+#EXTINF:-1,Peppa Pig S02E03 Polly's Holiday
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s02e03.Polly%27s.Holiday.SD.TV.avi
+#EXTINF:-1,Peppa Pig S02E04 Polly's Holiday
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s02e04.Teddy%27s.Day.Out.SD.TV.avi
+#EXTINF:-1,Peppa's Christmas
+http://213.136.86.46/kidstv/Peppa.Pig.Season.1.2.3.4.5/Peppa.Pig.s00e01.Peppa%27s.Christmas.SD.TV.avi
